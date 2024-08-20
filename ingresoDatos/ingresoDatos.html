@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="ingresoDatos.css" />
+    <link rel="icono" href="../logo/LOGO-BOY-TOYS.png" />
+    <title>Ingreso de datos</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="header">
+        <img src="../logo/Boy_Toys_Horizontal.png" alt="Boytoys" />
+      </div>
+      <h1>PLAZA CENTRAL</h1>
+      <h2>Ingresar datos</h2>
+
+      <form  id="mi-formulario" action="../conecction/conecction.php" method="post">
+
+        <div class="form-group">
+            <label for="codigo">Código/Barras:</label>
+            <input type="text" 
+            id="codigo" 
+            name="codigo" required>
+
+          </div> 
+          <div class="form-group" >
+            <label for="descripcion">Descripción del Ítem:</label>
+            <input type="text" 
+            id="descripcion" 
+            name="descripcion" required></label>
+
+
+          </div>
+
+          <div class="form-group">
+            <label for="cantidad">Cantidad:</label>
+            <input type="number" id="cantidad" name="cantidad"
+                   min="1" max="100"
+                   value=""
+                   required>
+        </div>
+        <div class="form-group">
+            <label for="numero_caja">Número de caja:</label>
+            <input
+              type="number"
+              id="numero_caja"
+              name="numero_caja"
+              min="1"
+              required
+            />
+          </div>
+  
+        
+          <div class="button-container">
+            <button type="submit">Registar</button>
+            <button type="button" onclick="navigateTo('leer_datos.php')">
+              Leer Datos
+            </button>
+            <button type="button" onclick="navigateTo('index.html')">
+               Menú
+            </button>
+            <!--  boton para regresar a validacion_cantidad.html -->
+            <a href="../validacionCantidad/validacionCantidad.html">Validar</a>
+          </div>
+        </form>
+      </div>
+  
+      <script src="script.js"></script>
+    </body>
+  </html>
+  
