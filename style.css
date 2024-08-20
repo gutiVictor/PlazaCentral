@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #121212; /* Fondo oscuro */
+    color: #BB86FC; /* Color de texto claro */
+    margin: 0;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.main {
+    background-color: #1f1f1f; /* Fondo oscuro para el contenido */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center; /* Centrar contenido */
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:#F74029; /* Color morado para el título */
+}
+
+p {
+    color: #b94916; /* Color ladrillo para versión */
+}
+ul{
+    list-style-type: none; /* Quitar viñetas */
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background-color: #353333; /* Fondo mas oscuro al pasar el ratón */
+    color: #ffffff; /* Color de texto blanco */
+}
+
+.texto {
+    font-size: 1.2em;
+}
+
+.header{
+    position:relative; /* Posición relativa al elemento padre div */
+    text-align: center;/* centrar el texto */
+}
+
+.header img {
+    /* background-color: #8a2be2; */
+    display: block;
+    margin: 0 auto; /* Centrar la imagen */
+    width: 450px;
+    height: 180px;
+}
+
+.date-time {
+    position: absolute; /* Posición absoluta dentro del div header */
+    top: 235px;
+    right: 125px;
+    font-size: 1.2em;
+    color: #bbbbbb;
+}
+
+/* Estilos para el formulario de exportación */
+form[action="export_excel.php"] {
+    margin: 0;
+    padding: 0;
+    display: inline; /* Muestra el formulario en línea para que se alinee con otros elementos */
+}
+
+/* Estilos para el botón de exportación */
+form[action="export_excel.php"] button {
+    background-color: #BB86FC; /* Color morado de fondo */
+    color: #1f1f1f; /* Color de texto oscuro */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s, color 0.3s;
+    font-family: Arial, Helvetica, sans-serif; /* Fuente consistente */
+}
+
+/* Estilo del botón de exportación al pasar el ratón */
+form[action="export_excel.php"] button:hover {
+    background-color: #8a2be2; /* Color morado más oscuro al pasar el ratón */
+    color: #ffffff; /* Color de texto blanco */
+}
