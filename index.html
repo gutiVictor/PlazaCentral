@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plaza Central</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./logo/LOGO-BOY-TOYS.png" type="image/png">
+</head>
+<body onload="updateDateTime()">
+    <!-- Información de contenido -->
+    <div class="main">
+      <div class="header">
+        <img src="./logo/LOGO-BOY-TOYS.png" alt="Boytoys" />
+        <div id="dateTime" class="date-time"></div>
+      </div>
+      <!-- Title -->
+      <h1>PLAZA CENTRAL</h1>
+      <br>
+ 
+      <div class="texto">
+        <ul>
+          <li onclick="navigateTo('Entrada.html')">
+            <strong>Información</strong>
+          </li>
+          <li onclick="navigateTo('ingreso_datos.html')">Registro de datos</li>
+          <li onclick="navigateTo('validacion_cantidad.html')">
+            Validación de cantidad
+          </li>
+          <li onclick="navigateTo('form_productos.php')">Agregar Inventario</li>
+          <!-- Botón para exportar a Excel -->
+          <li>
+            <form action="export_excel.php" method="post">
+              <button type="submit" name="export">Exportar a Excel</button>
+            </form>
+          </li>
+          
+          <!-- <li onclick="document.getElementById('exportForm').submit();"><strong>Agregar Inventario</strong></li> -->
+          <li onclick="navigateTo('https://btoys.co/')">Salida</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Formulario oculto para exportar datos -->
+    <form
+      id="exportForm"
+      action="export_excel.php"
+      method="post"
+      style="display: none"
+    >
+      <input type="hidden" name="export" value="1" />
+    </form>
+
+    <!--  -->
+    <script>
+      function navigateTo(page) {
+        window.location.href = page;
+      }
+
+      function updateDateTime() {
+        const now = new Date();
+        const date = now.toLocaleDateString();
+        const time = now.toLocaleTimeString();
+        document.getElementById("dateTime").textContent = `${date} ${time}`;
+      }
+
+      setInterval(updateDateTime, 1000); // Actualiza cada segundo
+    </script>
+  </body>
+</html>
