@@ -20,7 +20,7 @@ body{
 
 h1{
     font-family: 'Times New Roman', Times, serif;
-    color:#F74029; /* Color morado para el título */
+    color:#FF5733; /* Color morado para el título */
 }
 
 p {
@@ -58,7 +58,7 @@ ul li:hover {
     display: block;
     margin: 0 auto; /* Centrar la imagen */
     width: 450px;
-    height: 180px;
+    height: 130px;
 }
 
 .date-time {
