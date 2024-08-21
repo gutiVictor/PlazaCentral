@@ -14,7 +14,7 @@ body{
     background-color: #1f1f1f; /* Fondo oscuro para el contenido */
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(131, 108, 108, 0.5);
     text-align: center; /* Centrar contenido */
 }
 
@@ -78,7 +78,7 @@ form[action="export_excel.php"] {
 
 /* Estilos para el botón de exportación */
 form[action="export_excel.php"] button {
-    background-color: #EB5023; /* Color morado de fondo */
+    background-color: #f01710; /* Color  de fondo */
     color: #faf8f8; /* Color de texto oscuro */
     border: none;
     padding: 10px 20px;
@@ -91,6 +91,6 @@ form[action="export_excel.php"] button {
 
 /* Estilo del botón de exportación al pasar el ratón */
 form[action="export_excel.php"] button:hover {
-    background-color: #8a2be2; /* Color morado más oscuro al pasar el ratón */
-    color: #ffffff; /* Color de texto blanco */
+    background-color: #EB5023; /* Color morado más oscuro al pasar el ratón */
+    color: #FFFFFF; /* Color de texto blanco */
 }

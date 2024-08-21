@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Fondo oscuro */
+    color: #E0E0E0; /* Texto claro */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main {
+    width: 80%;
+    max-width: 1000px;
+    background-color: #1E1E1E; /* Fondo un poco más claro que el body */
+    padding: 20px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+}
+
+
+h1 {
+    color: #EB5023; /* Título con color de acento */
+    text-align: center;
+}
+
+form input[type="text"] {
+    background-color: #2C2C2C; /* Fondo del input oscuro */
+    color: #E0E0E0; /* Texto claro */
+    border: 1px solid #EB5023; /* Borde con color de acento */
+    border-radius: 4px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+form button {
+    background-color: #EB5023; /* Botón con color de acento */
+    color: #121212; /* Texto oscuro */
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+form button:hover {
+    background-color:  #FFC800; /* Botón más oscuro al pasar el ratón */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #333333; /* Borde de las celdas más claro */
+}
+
+tr:hover {
+    background-color: #333333; /* Fondo de las filas al pasar el ratón */
+}
+.pagination a {
+    
+    color:  #FFC800; /* Enlaces de paginación con color de acento */
+    padding: 7px;
+    text-decoration: none;
+    border: 1px solid  #FFC800; /* Borde con color de acento */
+    margin: 0 2px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9em;
+    transition: background-color 0.3s, color 0.3s;
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    vertical-align: middle;
+ 
+
+}
+.pagination a.active {
+    background-color: #EB5023; /* Fondo de enlace activo */
+    color: #121212; /* Texto de enlace activo */
+}
+
+.pagination a:hover {
+    background-color: #FFC800; /* Fondo de enlace al pasar el ratón */
+}
+
+
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #FFC800; /* Botón con color de acento */
+    color: #121212; /* Texto oscuro */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #EB5023; /* Botón más oscuro al pasar el ratón */
+}
+
+
+
+

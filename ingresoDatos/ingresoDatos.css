@@ -20,12 +20,13 @@ body {
 }
 
 .header img {
-    max-width: 150px;
-    display: block;
+    max-width: 350px;
+   display: block; 
     margin: 0 auto 10px;
+   /*  background-color: #bb4abb; */
 }
 h1{
-    color:#FF5733;
+    color: #FF8700;
     text-align: center;
     font-size: 1.5em;
     margin-bottom: 15px;
@@ -68,10 +69,13 @@ input[type="number"]{
     align-items: center;
     margin-top: 15px;
 }
+.button-container a{
+    color:#FF5733;
+}
 
 button{
     padding: 8px 10px;
-    background-color: #BB86FC;
+    background-color:  #FFC800;
     color:#1f1f1f;/* Color de texto oscuro */
     border: none;
     border-radius: 5px;
@@ -81,6 +85,6 @@ button{
 }
 
 button:hover{
-    background-color: #bb4abb; /* Color de fondo al pasar el ratón */
+    background-color: #EB5023; /* Color de fondo al pasar el ratón */
 
 }
