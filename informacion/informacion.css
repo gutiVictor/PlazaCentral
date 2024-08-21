@@ -11,7 +11,7 @@ body {
 .main {
     max-width: 900px;
     margin: auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #1e1e1e; /* Fondo del contenedor */
     border-radius: 10px;
 }
