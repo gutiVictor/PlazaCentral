@@ -31,8 +31,8 @@ $sql = "INSERT INTO tiendaempaques (codigo_barras, des_Item, cantidad, `num-caja
 
        // Ejecutar la consulta 
 if ($conn->query($sql) === TRUE) {
-    // Redirigir a ingreso_datos.html
-    header("Location: ingreso_datos.html");
+    // Redirigir a ingresoDatos.html
+    header("Location: ../ingresoDatos/ingresoDatos.html");
     exit(); // Asegurarse de que el script termine aquí para prevenir cualquier salida adicional
 } else {
     echo "Error: " . $sql . "<br>" . $conn->error;

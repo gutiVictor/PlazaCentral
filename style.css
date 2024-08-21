@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #121212; /* Fondo oscuro */
-    color: #BB86FC; /* Color de texto claro */
+    color: #EB5023; /* Color de texto claro */
     margin: 0;
     padding: 0;
     display:flex;
@@ -58,15 +58,15 @@ ul li:hover {
     display: block;
     margin: 0 auto; /* Centrar la imagen */
     width: 450px;
-    height: 130px;
+    height: 150px;
 }
 
 .date-time {
-    position: absolute; /* Posición absoluta dentro del div header */
-    top: 235px;
+   /*  position: absolute; */ /* Posición absoluta dentro del div header */
+    top: 135px;
     right: 125px;
     font-size: 1.2em;
-    color: #bbbbbb;
+    color: #FFC800;
 }
 
 /* Estilos para el formulario de exportación */
@@ -78,8 +78,8 @@ form[action="export_excel.php"] {
 
 /* Estilos para el botón de exportación */
 form[action="export_excel.php"] button {
-    background-color: #BB86FC; /* Color morado de fondo */
-    color: #1f1f1f; /* Color de texto oscuro */
+    background-color: #EB5023; /* Color morado de fondo */
+    color: #faf8f8; /* Color de texto oscuro */
     border: none;
     padding: 10px 20px;
     border-radius: 5px;

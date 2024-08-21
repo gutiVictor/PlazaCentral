@@ -4,18 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="ingresoDatos.css" />
-    <link rel="icono" href="../logo/LOGO-BOY-TOYS.png" />
+    <link rel="icono" href="../logo/PlasticosFenix.png" />
     <title>Ingreso de datos</title>
   </head>
   <body>
     <div class="main">
       <div class="header">
-        <img src="../logo/Boy_Toys_Horizontal.png" alt="Boytoys" />
+        <img src="../logo/PlasticosFenixBlanco.png" alt="Boytoys" />
       </div>
-      <h1>PLAZA CENTRAL</h1>
+     <!--  <h1>PLASTICOS FENYX</h1> -->
       <h2>Ingresar datos</h2>
 
-      <form  id="mi-formulario" action="../conecction/conecction.php" method="post">
+      <form id="mi-formulario" action="../conecction/conecction.php" method="post">
+
 
         <div class="form-group">
             <label for="codigo">Código/Barras:</label>
@@ -54,12 +55,13 @@
         
           <div class="button-container">
             <button type="submit">Registar</button>
-            <button type="button" onclick="navigateTo('leer_datos.php')">
+            <button type="button" onclick="window.location.href='leer_datos.php'">
               Leer Datos
             </button>
-            <button type="button" onclick="navigateTo('index.html')">
-               Menú
-            </button>
+            <button type="button" onclick="window.location.href='../index.html'">
+              Menú
+           </button>
+           
             <!--  boton para regresar a validacion_cantidad.html -->
             <a href="../validacionCantidad/validacionCantidad.html">Validar</a>
           </div>
