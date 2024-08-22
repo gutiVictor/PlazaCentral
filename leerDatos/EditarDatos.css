@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Fondo oscuro */
+    color: #BB86FC; /* Color de texto claro */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1f1f1f; /* Fondo oscuro para el contenido */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #BB86FC; /* Color azul para el título */
+}
+
+.edit-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 400px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #ffffff; /* Color blanco para las etiquetas */
+}
+
+.form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #333333; /* Borde oscuro */
+    border-radius: 4px;
+    background-color: #333333; /* Fondo del campo */
+    color: #ffffff; /* Color de texto del campo */
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.button-container button {
+    background-color: #BB86FC;
+    color: #1f1f1f; /* Color de texto oscuro */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+}
+
+.button-container button:hover {
+    background-color: #925bca; /* Color de fondo al pasar el ratón */
+}
+
+.button-container button[type="button"] {
+    background-color: #6c757d;
+}
+
+.button-container button[type="button"]:hover {
+    background-color: #5a6268;
+}

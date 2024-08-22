@@ -1,48 +1,63 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #121212; /* Fondo oscuro */
-    color: #E0E0E0; /* Texto claro */
+    background-color: #121212;
+    color: #E0E0E0;
     margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 .main {
-    width: 80%;
+    width: 90%;
     max-width: 1000px;
-    background-color: #1E1E1E; /* Fondo un poco más claro que el body */
+    background-color: #1E1E1E;
     padding: 20px;
     margin-top: 30px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
 }
 
-
 h1 {
-    color: #EB5023; /* Título con color de acento */
+    color: #EB5023;
     text-align: center;
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 form input[type="text"] {
-    background-color: #2C2C2C; /* Fondo del input oscuro */
-    color: #E0E0E0; /* Texto claro */
-    border: 1px solid #EB5023; /* Borde con color de acento */
+    background-color: #2C2C2C;
+    color: #E0E0E0;
+    border: 1px solid #EB5023;
     border-radius: 4px;
     padding: 10px;
-    margin-right: 10px;
+    margin: 5px 0;
+    width: 100%;
+    max-width: 300px; /* Limitar el tamaño máximo */
 }
 
 form button {
-    background-color: #EB5023; /* Botón con color de acento */
-    color: #121212; /* Texto oscuro */
+    background-color: #E0E0E0;
+    color: #121212;
     border: none;
     border-radius: 4px;
     padding: 10px 20px;
     cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+    max-width: 200px; /* Limitar el tamaño máximo del botón */
 }
+
 form button:hover {
-    background-color:  #FFC800; /* Botón más oscuro al pasar el ratón */
+    background-color: #FFC800;
 }
 
 table {
@@ -54,22 +69,23 @@ table {
 th, td {
     padding: 12px;
     text-align: left;
-    border-bottom: 1px solid #333333; /* Borde de las celdas más claro */
+    border-bottom: 1px solid #333333;
 }
 
 tr:hover {
-    background-color: #333333; /* Fondo de las filas al pasar el ratón */
+    background-color: #333333;
 }
 
-/* .pagination {
+.pagination {
     margin-top: 20px;
     text-align: center;
-} */
+}
+
 .pagination a {
-    color:  #FFC800; /* Enlaces de paginación con color de acento */
+    color: #FFC800;
     padding: 7px;
     text-decoration: none;
-    border: 1px solid  #FFC800; /* Borde con color de acento */
+    border: 1px solid #FFC800;
     margin: 0 2px;
     border-radius: 4px;
     font-weight: bold;
@@ -77,24 +93,17 @@ tr:hover {
     transition: background-color 0.3s, color 0.3s;
     display: inline-block;
     text-align: center;
-    width: 20px;
-    height: 20px;
-    line-height: 20px;
     vertical-align: middle;
-    
-  
- 
-
 }
+
 .pagination a.active {
-    background-color: #EB5023; /* Fondo de enlace activo */
-    color: #121212; /* Texto de enlace activo */
+    background-color: #EB5023;
+    color: #121212;
 }
 
 .pagination a:hover {
-    background-color: #FFC800; /* Fondo de enlace al pasar el ratón */
+    background-color: #FFC800;
 }
-
 
 .button-container {
     margin-top: 20px;
@@ -103,16 +112,31 @@ tr:hover {
 
 button {
     padding: 10px 20px;
-    background-color: #FFC800; /* Botón con color de acento */
-    color: #121212; /* Texto oscuro */
+    background-color: #FFC800;
+    color: #121212;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
+
 button:hover {
-    background-color: #EB5023; /* Botón más oscuro al pasar el ratón */
+    background-color: #EB5023;
 }
 
+@media (min-width: 600px) {
+    form {
+        flex-direction: row;
+        justify-content: space-between;
+    }
 
+    form input[type="text"] {
+        margin-right: 10px;
+        margin-left: 0;
+        margin-bottom: 0;
+    }
 
-
+    form button {
+        margin-top: 0;
+        margin-left: 10px;
+    }
+}
