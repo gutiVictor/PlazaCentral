@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,10 +8,11 @@
     <link rel="icon" href="../logo/PlasticosFenix.png" type="image/png">
     <title>Leer Datos</title>
 </head>
+
 <body>
     <div class="main">
 
-    <h1>Datos Registrados</h1>
+        <h1>Datos Registrados</h1>
         <form method="GET">
             <input type="text" name="codigo" placeholder="Ingrese El Código de Barras">
             <input type="text" name="num_caja" placeholder="Ingrese El Número de Caja">
@@ -18,7 +20,7 @@
             <button type="submit">Buscar</button>
         </form>
 
-        
+
 
         <?php
         // Conectarse a la base de datos desde PHP
@@ -85,7 +87,7 @@
                     </thead>
                     <tbody>";
             // Salida de cada fila de los resultados
-            while($row = $result->fetch_assoc()) {
+            while ($row = $result->fetch_assoc()) {
                 echo "<tr>
                         <td>{$row['codigo_barras']}</td>
                          <td>{$row['ref']}</td> <!-- Agregado Ref -->
@@ -95,7 +97,13 @@
                         <td>{$row['num-caja']}</td>
                         
                         <td>{$row['fecha_registro']}</td>
-                        <td><a href='editar_datos.php?id={$row['id']}'><img style='width: 20px; height: 20px;' src='edit_icon.png' alt='Editar' title='Editar'>editar</a></td>
+                        <td>
+                            <a href='editar_datos.php?id={$row['id']}'>
+                            <img style='width: 20px; height: 20px;' src='../iconos/edit_icon.png' alt='Editar' title='Editar'>
+                            <span style='color: yellow;'>Editar</span>
+                            </a>
+                        </td>
+
                       </tr>";
             }
             echo "</tbody></table>";
@@ -120,7 +128,7 @@
             <?php endif; ?>
 
             <?php for ($i = 1; $i <= $totalPages; $i++): ?>
-                <a href="?page=<?php echo $i; ?>&codigo=<?php echo $codigo; ?>&num_caja=<?php echo $num_caja; ?>&ref=<?php echo $ref; ?>"<?php if ($i == $page) echo ' class="active"'; ?>><?php echo $i; ?></a>
+                <a href="?page=<?php echo $i; ?>&codigo=<?php echo $codigo; ?>&num_caja=<?php echo $num_caja; ?>&ref=<?php echo $ref; ?>" <?php if ($i == $page) echo ' class="active"'; ?>><?php echo $i; ?></a>
             <?php endfor; ?>
 
             <?php if ($page < $totalPages): ?>
@@ -139,4 +147,5 @@
         }
     </script>
 </body>
+
 </html>

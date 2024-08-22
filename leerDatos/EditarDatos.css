@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #121212; /* Fondo oscuro */
-    color: #BB86FC; /* Color de texto claro */
+    color: #EB5023; /* Color de texto claro */
     margin: 0;
     padding: 0;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 450px;
     margin: 0 auto;
     padding: 20px;
     background-color: #1f1f1f; /* Fondo oscuro para el contenido */
@@ -31,7 +31,7 @@ main {
 
 h1 {
     margin-bottom: 20px;
-    color: #BB86FC; /* Color azul para el título */
+    color: #EB5023; /* Color azul para el título */
 }
 
 .edit-form {
@@ -68,7 +68,7 @@ h1 {
 }
 
 .button-container button {
-    background-color: #BB86FC;
+    background-color: #FFC800;
     color: #1f1f1f; /* Color de texto oscuro */
     border: none;
     padding: 10px 20px;
@@ -80,13 +80,22 @@ h1 {
 }
 
 .button-container button:hover {
-    background-color: #925bca; /* Color de fondo al pasar el ratón */
+    background-color: #16eb39; /* Color de fondo al pasar el ratón */
 }
 
 .button-container button[type="button"] {
-    background-color: #6c757d;
+    background-color: #FFC800;
 }
 
 .button-container button[type="button"]:hover {
-    background-color: #5a6268;
+    background-color: #333333;
+}
+
+.button-container a {
+    text-emphasis-color:yellow ;
+  
+    color: blue;
+
+
+    
 }
