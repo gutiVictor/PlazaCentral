@@ -82,7 +82,7 @@ $conn->close();
 
                 <div class="button-container">
                     <button type="submit">Actualizar</button>
-                    <button type="button" onclick="navigateTo('leer_datos.php')">Cancelar</button>
+                    <button type="button" onclick="navigateTo('leerDatos.php')">Cancelar</button>
                 </div>
             </form>
         </main>
