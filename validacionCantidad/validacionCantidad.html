@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../logo/PlasticosFenix.png" type="image/png">
+    <link rel="stylesheet" href="validacionCantidad.css">
+    <title>Validación de Cantidad</title>
+    <style>
+       
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Validación de Cantidad</h1>
+        <!-- Botón para regresar a ingreso_datos.html -->
+        <a href="../ingresoDatos/ingresoDatos.html" >Regresar</a>
+        <br><br>
+
+        
+
+     
+        <!-- Formulario de filtros -->
+        <div class="filter-container">
+            <!-- Filtro de código de barra -->
+            <label for="filterBarcode">Código de Barra:</label>
+            <input type="text" id="filterBarcode" name="filterBarcode">
+
+            <!-- Filtro de referencia -->
+            <label for="filterRef">Ref:</label>
+            <input type="text" id="filterRef" name="filterRef">
+
+            <!-- Filtro de número de caja -->
+            <label for="filterBox">#Caja:</label>
+            <input type="text" id="filterBox" name="filterBox">
+
+            <!-- Filtro de fecha de inicio -->
+            <label for="fecha_inicio">Fecha Inicio:</label>
+            <input type="date" id="fecha_inicio" name="fecha_inicio">
+
+            <!-- Filtro de fecha de fin -->
+            <label for="fecha_fin">Fecha Fin:</label>
+            <input type="date" id="fecha_fin" name="fecha_fin">
+
+            <!-- Botón para aplicar los filtros -->
+            <button id="applyFilters">Aplicar Filtros</button>
+        </div>
+        <br><br>
+        
+        <!-- Tabla para mostrar los datos consolidados -->
+        <table id="consolidatedTable">
+            <thead>
+                <tr>
+                    <th>Código de Barra</th>
+                    <th>Ref</th>
+                    <th>Descripción del Ítem</th>
+                    <th>Cantidad</th>
+                    <th>#Caja</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí se insertarán las filas con los datos -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Función para obtener la fecha en formato YYYY-MM-DD
+            function getFormattedDate(date) {
+                const d = new Date(date);
+                let month = '' + (d.getMonth() + 1);
+                let day = '' + d.getDate();
+                const year = d.getFullYear();
+
+                if (month.length < 2) month = '0' + month;
+                if (day.length < 2) day = '0' + day;
+
+                return [year, month, day].join('-');
+            }
+
+            // Obtener la fecha de hoy y la fecha de hace dos días
+            const today = new Date();
+            const twoDaysAgo = new Date(today);
+            twoDaysAgo.setDate(today.getDate() - 2);
+
+            // Asignar fechas por defecto a los campos de fecha
+            document.getElementById('fecha_inicio').value = getFormattedDate(twoDaysAgo);
+            document.getElementById('fecha_fin').value = getFormattedDate(today);
+
+            function fetchData() {
+                // Obtener los valores de los filtros
+                const filterBox = document.getElementById("filterBox").value;
+                const filterBarcode = document.getElementById("filterBarcode").value;
+                const filterRef = document.getElementById("filterRef").value;
+                const fechaInicio = document.getElementById("fecha_inicio").value;
+                const fechaFin = document.getElementById("fecha_fin").value;
+
+                // Construir la URL con los parámetros de filtro
+                const queryParams = new URLSearchParams({
+                    box: filterBox || '',
+                    barcode: filterBarcode || '',
+                    ref: filterRef || '',
+                    fecha_inicio: fechaInicio || '',
+                    fecha_fin: fechaFin || ''
+                }).toString();
+
+                // Hacer una solicitud GET a get_consolidated_data.php con los filtros aplicados
+                fetch('get_consolidated_data.php?' + queryParams)
+                    .then(response => response.json())  // Parsear la respuesta JSON
+                    .then(data => {
+                        renderTable(data);  // Renderizar la tabla con los datos obtenidos
+                    })
+                    .catch(error => console.error('Error:', error));  // Manejar errores
+            }
+
+            // Llamar a fetchData para cargar los datos de los últimos dos días por defecto al inicio
+            fetchData();
+
+            // Agregar un evento al botón de aplicar filtros
+            document.getElementById("applyFilters").addEventListener("click", fetchData);
+
+            function renderTable(data) {
+                const tableBody = document.querySelector("#consolidatedTable tbody");
+                tableBody.innerHTML = "";  // Limpiar el contenido previo de la tabla
+
+                let lastBox = null;
+                data.forEach(item => {
+                    // Agregar un separador si el número de caja cambia
+                    if (lastBox && lastBox !== item.box) {
+                        const separatorRow = document.createElement("tr");
+                        const separatorCell = document.createElement("td");
+                        separatorCell.colSpan = 5;
+                        separatorCell.className = "separator";
+                        separatorRow.appendChild(separatorCell);
+                        tableBody.appendChild(separatorRow);
+                    }
+
+                    // Crear una nueva fila con los datos del ítem
+                    const row = document.createElement("tr");
+
+                    const barcodeCell = document.createElement("td");
+                    barcodeCell.textContent = item.barcode;
+                    row.appendChild(barcodeCell);
+
+                    const refCell = document.createElement("td");
+                    refCell.textContent = item.ref;
+                    row.appendChild(refCell);
+
+                    const desItemCell = document.createElement("td");
+                    desItemCell.textContent = item.des_Item;
+                    row.appendChild(desItemCell);
+
+                    const totalCell = document.createElement("td");
+                    totalCell.textContent = item.total;
+                    row.appendChild(totalCell);
+
+                    const boxCell = document.createElement("td");
+                    boxCell.textContent = item.box;
+                    row.appendChild(boxCell);
+
+                    tableBody.appendChild(row);
+
+                    lastBox = item.box;
+                });
+
+                // Mostrar un mensaje si no se encuentran datos
+                if (data.length === 0) {
+                    const row = document.createElement("tr");
+                    const cell = document.createElement("td");
+                    cell.colSpan = 5;
+                    cell.textContent = "No se encontraron datos.";
+                    row.appendChild(cell);
+                    tableBody.appendChild(row);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
