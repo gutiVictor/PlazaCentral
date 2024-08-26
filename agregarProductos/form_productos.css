@@ -1,116 +1,118 @@
+/* Estilos generales */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #121212; /* Fondo oscuro */
-    color: #BB86FC; /* Color de texto claro */
+    background-color: #f4f4f4; /* Fondo gris claro */
+    color: #333; /* Color de texto */
     margin: 0;
-    padding: 0;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    text-align: center;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.main {
-    background-color: #1f1f1f; /* Fondo oscuro para el contenido */
-    padding: 30px;
-    border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
-    width: 90%;
-    max-width: 600px; /* Ajusta el ancho máximo del contenedor */
-}
-
+/* Encabezado principal */
 h1 {
-    color: #BB86FC; /* Color morado para el título */
+    font-size: 2.5em;
+    color: #FF6347; /* Color del encabezado */
+    text-align: center;
     margin-bottom: 20px;
-    font-size: 2em;
 }
 
+/* Estilos del formulario */
 form {
-    background-color: #2c2c2c; /* Fondo más claro para el formulario */
+    background-color: #fff; /* Fondo blanco */
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    max-width: 400px;
+    width: 100%;
     margin-bottom: 30px;
 }
 
 label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
     display: block;
-    font-size: 1.1em;
-    margin-bottom: 5px;
+    color: #333;
 }
 
 input[type="text"] {
-    width: calc(100% - 22px);
+    width: calc(100% - 20px);
     padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #BB86FC;
-    border-radius: 4px;
-    background-color: #333;
-    color: #BB86FC;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
 }
 
-button[type="submit"] {
-    background-color: #BB86FC;
-    color: #121212;
+button {
+    background-color: #FF6347; /* Color del botón */
+    color: white;
     border: none;
     padding: 10px 20px;
-    border-radius: 4px;
+    border-radius: 5px;
     font-size: 1em;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
-button[type="submit"]:hover {
-    background-color: #9e7cfc;
+button:hover {
+    background-color: #FF4500; /* Color de fondo al pasar el cursor */
 }
 
-button[type="button"] {
-    background-color: #BB86FC;
-    color: #121212;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    font-size: 1em;
-    margin-top: 20px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+/* Estilos para la lista de productos */
+h2 {
+    font-size: 2em;
+    color: #333;
+    margin-top: 40px;
+    text-align: center;
 }
 
-ul {
-    list-style-type: none; /* Quitar viñetas */
+ul#productList {
+    list-style-type: none;
     padding: 0;
     margin: 0;
+    max-width: 600px;
+    width: 100%;
 }
 
-ul li {
-    background-color: #333;
+ul#productList li {
+    background-color: #fff; /* Fondo blanco */
     margin-bottom: 10px;
     padding: 15px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
-    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 0.2s;
 }
 
-ul li:hover {
-    background-color: #444; /* Fondo más oscuro al pasar el ratón */
+ul#productList li:hover {
+    transform: scale(1.02); /* Efecto de agrandamiento al pasar el cursor */
 }
 
-ul li a {
-    color: #BB86FC; /* Color por defecto de los enlaces */
+ul#productList li a {
     text-decoration: none;
+    color: #FF6347; /* Color de los enlaces */
     font-weight: bold;
     margin-left: 10px;
 }
 
-ul li a:hover {
-    text-decoration: underline;
+ul#productList li a.edit:hover {
+    color: #FF4500; /* Color de los enlaces al pasar el cursor */
 }
 
-ul li a.edit {
-    color: #4CAF50; /* Color verde para el enlace de "Editar" */
-}
+/* Responsive Design */
+@media (max-width: 768px) {
+    form {
+        max-width: 90%;
+        margin-bottom: 20px;
+    }
 
-ul li a.edit:hover {
-    color: #45a049; /* Color verde más oscuro al pasar el ratón */
+    ul#productList {
+        max-width: 90%;
+    }
 }

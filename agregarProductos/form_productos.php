@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Gestión de Productos</title>
-    <link rel="icon" href="LOGO-BOY-TOYS.png" type="image/png">
+    <link rel="icon" href="../logo/PlasticosFenix.png" type="image/png">
     <link rel="stylesheet" href="form_productos.css">
 </head>
 <body>
@@ -23,7 +23,7 @@
         <br><br>
         
         <button type="submit" name="action" value="add">Guardar</button>
-        <button type="button" onclick="location.href='index.html'">Volver a Inicio</button>
+        <button type="button" onclick="location.href='../index.html'">Volver a Inicio</button>
     </form>
 
     <h2>Lista de Productos</h2>
