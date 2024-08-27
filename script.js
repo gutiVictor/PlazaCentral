@@ -64,6 +64,13 @@ function validarNumeroCaja() {
     }
 }
 
+// Prevenir el envío del formulario al presionar Enter
+document.getElementById("mi-formulario").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        event.preventDefault(); // Prevenir el envío del formulario
+    }
+});
+
 // Evento de envío del formulario
 document.getElementById("mi-formulario").addEventListener("submit", function(event) {
     if (!validarNumeroCaja()) {

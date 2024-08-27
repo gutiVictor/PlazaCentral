@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="form_productos.css">
 </head>
 <body>
-    <h1>Agregar Codigo/<br>Descripcion/<br>Referencia</h1>
+    <img src="../logo/PlasticosFenixNegro.png" style="width: 250px;"  alt="">
+    <h3>Agregar Codigo/Descripcion/Referencia</h3>
     <!-- Formulario para agregar o editar un producto -->
     <form id="productForm" method="POST" action="manage_productos.php">
         <label for="codigo">Código:</label>
