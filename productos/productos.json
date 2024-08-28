@@ -158876,6 +158876,79 @@
      "7150342":{
         "descripcion":"MORRAL",
         "ref":"UNI0342"
-     }
+        },
+     "7142493":{
+        "descripcion":"APLICADOR DE GEMAS",
+        "ref":"DIM2493"
+     },
+     "7261329":{
+        "descripcion":"BLOQUES PARA ARMAR",
+        "ref":"FAR1329"
+      },
+   
+   "7261330":{
+      "descripcion":"SET PARA DISEÑAR PULSERAS",
+      "ref":"FAR1330"
+   },
+      "7720084":{
+         "descripcion":"JENGA DIDACTICO DE MADERA NL2-17 54 PZAS",
+         "ref":"NIÑ0084"
+      },
+      "7032041":{
+         "descripcion":"PATINES DE LINEA CON ACCESORIOS",
+         "ref":"TON2041"
+      },
+      "7045789":{
+         "descripcion":"TAPETE MUSICAL GRANDE",
+         "ref":"TOY5789"
+      },
+      "7045790":{
+         "descripcion":"BEBÉS LLORONES LOVING CARE W2 SURT.",
+         "ref":"TOY5790"
+      },
+      "7045791":{
+         "descripcion":"BEBÉS LLORONES STAR BABIES SURT.",
+         "ref":"TOY5791"
+      },
+      "7045792":{
+         "descripcion":"BFF MUÑECA TALENTOS S3 SURT.",
+         "ref":"TOY5792"
+      },
+      "7045793":{
+         "descripcion":"MAGIC MIXIES MIXLINGS S4 SINGLE PK CDU",
+         "ref":"TOY5793"
+      },
+      "7045794":{
+         "descripcion":"MAGIC MIXIES MIXLINGS S4 TWIN PK CDU",
+         "ref":"TOY5794"
+      },
+      "7045795":{
+         "descripcion":"COOKEEZ MAKERY TOASTIES SINGLE PK CDU",
+         "ref":"TOY5795"
+      },
+      "7045796":{
+         "descripcion":"GOO JIT ZU CURSED SEA HÉROE X 1 SURT.",
+         "ref":"TOY5796"
+      },
+      "7045797":{
+         "descripcion":"GOO JIT ZU MARVEL MINI HÉROES 2,5 X 1 NW SURT.",
+         "ref":"TOY5797"
+      },
+      "7045798":{
+         "descripcion":"GOO JIT ZU MARVEL GOO SHIFTERS HÉROES X 1 SURT.",
+         "ref":"TOY5798"
+      },
+      "7045799":{
+         "descripcion":"GOO JIT ZU JURASSIC WORLD DINOS X 1 S5 SURT.",
+         "ref":"TOY5799"
+      },
+      "7045800":{
+         "descripcion":"PAW PATROL VEHÍCULO BÁSICO M15 SURT.",
+         "ref":"TOY5800"
+      },
+      "7045801":{
+         "descripcion":"PAW PATROL JUNGLE CACHORRO C/MASCOTA SURT.",
+         "ref":"TOY5801"
+      }
      
 }

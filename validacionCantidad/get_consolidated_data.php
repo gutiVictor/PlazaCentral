@@ -12,9 +12,9 @@ if ($conn->connect_error) {
     die("Error de conexión: " . $conn->connect_error);
 }
 
-//Eliminar  los datos mas antiguos que la fecha de inicio en este caso 10 dias hacia atras
+//Eliminar  los datos mas antiguos que la fecha de inicio en este caso 4 dias hacia atras
 
-$daysToKeep = 10;  // dias acontar para borrar los datos antiguos
+$daysToKeep =4;  // dias acontar para borrar los datos antiguos
 $sqlDelete = "DELETE FROM tiendaempaques WHERE fecha_registro < NOW() - INTERVAL ? DAY";
 $stmtDelete = $conn->prepare($sqlDelete);
 $stmtDelete->bind_param("i", $daysToKeep);
