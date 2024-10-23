@@ -45,6 +45,32 @@ document.getElementById("codigo").addEventListener("input", function() {
   }
 });
 
+// Manejar el evento de entrada en el campo de referencia
+document.getElementById("ref").addEventListener("input", function() {
+  clearTimeout(typingTimer);
+  const referencia = this.value.toUpperCase(); // Convertir el valor a mayúsculas
+
+  // Esperar hasta que la referencia tenga 7 dígitos
+  if (referencia.length >= 7) {
+    typingTimer = setTimeout(() => {
+      for (let codigo in productos) {
+        if (productos[codigo].ref === referencia) {
+          document.getElementById("codigo").value = codigo; // Asignar código de barras
+          document.getElementById("descripcion").value = productos[codigo].descripcion; // Asignar descripción
+          document.getElementById("cantidad").focus(); // Mover el foco al campo de cantidad
+
+          console.log("codigo:", codigo);
+          return; // Salir del bucle si se encuentra la referencia
+        }
+      }
+      // Si no se encuentra la referencia, limpiar los campos
+      document.getElementById("codigo").value = "";
+      document.getElementById("descripcion").value = "Descripción no encontrada";
+      document.getElementById("cantidad").focus(); // Mover el foco al campo de cantidad
+    }, doneTypingInterval);
+  }
+});
+
 // Manejar el evento de entrada en el campo de cantidad
 document.getElementById("cantidad").addEventListener("input", function() {
   // No mover el foco automáticamente al campo de número de caja
