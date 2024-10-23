@@ -162071,528 +162071,2708 @@
       "descripcion": "BRB PONY + PC AST",
       "ref": "TOY5810"
    },
-   
-      "7045811": {
-         "descripcion": "BRB STACIE DOLL",
-         "ref": "TOY5811"
-      },
-      "7045812": {
-         "descripcion": "BRB LIGAYA DOLL",
-         "ref": "TOY5812"
-      },
-      "7045813": {
-         "descripcion": "BRB STACIE GO KRT",
-         "ref": "TOY5813"
-      },
-      "7045814": {
-         "descripcion": "BRB STACIE & BRB 2PK",
-         "ref": "TOY5814"
-      },
-      "7045815": {
-         "descripcion": "BRB CHLS PLSYT WTR SLIDE",
-         "ref": "TOY5815"
-      },
-      "7045816": {
-         "descripcion": "BRB SKIP BOUNCE NDV",
-         "ref": "TOY5816"
-      },
-      "7045817": {
-         "descripcion": "BRB CHLS CN BE PLN",
-         "ref": "TOY5817"
-      },
-      "7045818": {
-         "descripcion": "BRB NW LNG HR DL AST",
-         "ref": "TOY5818"
-      },
-      "7045819": {
-         "descripcion": "BRB OPP MRMD",
-         "ref": "TOY5819"
-      },
-      "7045820": {
-         "descripcion": "BRB SPPHR DL",
-         "ref": "TOY5820"
-      },
-      "7045821": {
-         "descripcion": "BRB ATOM PEGASUS",
-         "ref": "TOY5821"
-      },
-      "7045822": {
-         "descripcion": "BRB CLR RVL 4/1 SRS CDU",
-         "ref": "TOY5822"
-      },
-      "7045823": {
-         "descripcion": "BRB QT RVL 6/1 SRS",
-         "ref": "TOY5823"
-      },
-      "7045824": {
-         "descripcion": "BRB MTM SPORTS AST",
-         "ref": "TOY5824"
-      },
-      "7045825": {
-         "descripcion": "BRB CARE CLINIC",
-         "ref": "TOY5825"
-      },
-      "7045826": {
-         "descripcion": "PP SM FSH PK AST",
-         "ref": "TOY5826"
-      },
-      "7045827": {
-         "descripcion": "PP HD BDDY AST",
-         "ref": "TOY5827"
-      },
-      "7045828": {
-         "descripcion": "UNO FLIP ATTACK",
-         "ref": "TOY5828"
-      },
-      "7045829": {
-         "descripcion": "UNO FLIP TRANSFORMERS",
-         "ref": "TOY5829"
-      },
-      "7045830": {
-         "descripcion": "UNO DAYLIGHT",
-         "ref": "TOY5830"
-      },
-      "7045831": {
-         "descripcion": "UNO SPIDER-MAN",
-         "ref": "TOY5831"
-      },
-      "7045832": {
-         "descripcion": "UNO SHOW  EM NO MERCY",
-         "ref": "TOY5832"
-      },
-      "7045833": {
-         "descripcion": "HW ACTION GYRO STUNT SET",
-         "ref": "TOY5833"
-      },
-      "7045834": {
-         "descripcion": "HW CITY ICE CREAM SHOP",
-         "ref": "TOY5834"
-      },
-      "7045835": {
-         "descripcion": "HW RV 2-PK AST",
-         "ref": "TOY5835"
-      },
-      "7045836": {
-         "descripcion": "HW PULLBACKS SNGLS AST",
-         "ref": "TOY5836"
-      },
-      "7045837": {
-         "descripcion": "HW PULLBACKS 2PK AST",
-         "ref": "TOY5837"
-      },
-      "7045838": {
-         "descripcion": "CARS COLOR CHANGERS MACK",
-         "ref": "TOY5838"
-      },
-      "7045839": {
-         "descripcion": "JW FEAT ALLSRUS DINO SVTD",
-         "ref": "TOY5839"
-      },
-      "7045840": {
-         "descripcion": "JW DINO PACK ASST",
-         "ref": "TOY5840"
-      },
-      "7045841": {
-         "descripcion": "JW FEAT INDRPTR",
-         "ref": "TOY5841"
-      },
-      "7045842": {
-         "descripcion": "JW STRIKE ATTACK AST",
-         "ref": "TOY5842"
-      },
-      "7045843": {
-         "descripcion": "BUTTERFLY SHAPE SORTER",
-         "ref": "TOY5843"
-      },
-      "7045844": {
-         "descripcion": "ROCK-A-STACK - SLEEVE",
-         "ref": "TOY5844"
-      },
-      "7045845": {
-         "descripcion": "FP MINI BIBOT BELBOT",
-         "ref": "TOY5845"
-      },
-      "7045846": {
-         "descripcion": "PUPPYS REMOTE CIP- LA",
-         "ref": "TOY5846"
-      },
-      "7045847": {
-         "descripcion": "SMARTPHONE BLUE CIP- LA",
-         "ref": "TOY5847"
-      },
-      "7045848": {
-         "descripcion": "SMARTPHONE PINK CIP- LA",
-         "ref": "TOY5848"
-      },
-      "7045849": {
-         "descripcion": "LNL SS TABLET PIK CIP- LA",
-         "ref": "TOY5849"
-      },
-      "7045850": {
-         "descripcion": "SIS REMOTE CIP- LA",
-         "ref": "TOY5850"
-      },
-      "7045851": {
-         "descripcion": "GAME CONTROLLER - CAL",
-         "ref": "TOY5851"
-      },
-      "7045852": {
-         "descripcion": "FP M╙VIL NUBES",
-         "ref": "TOY5852"
-      },
-      "7045853": {
-         "descripcion": "SENSIMALS GYM",
-         "ref": "TOY5853"
-      },
-      "7045854": {
-         "descripcion": "IMX JW CARNO DINO",
-         "ref": "TOY5854"
-      },
-      "7045855": {
-         "descripcion": "COLOR CHANGERS AST",
-         "ref": "TOY5855"
-      },
-      "7045856": {
-         "descripcion": "DELIVERY SET",
-         "ref": "TOY5856"
-      },
-
-
-
-
-
-
-
-
-      
-         "7200034": {
-           "descripcion": "COJIN ESTABILIZADOR EXTRASUAVE",
-           "ref": "ABA0034"
-         },
-         "7200035": {
-           "descripcion": "COCHE PASEADOR",
-           "ref": "ABA0035"
-         },
-         "7200036": {
-           "descripcion": "COCHE MOISES PEQUEÑO",
-           "ref": "ABA0036"
-         },
-         "7045857": {
-           "descripcion": "BABY PAWS MASCOTA S3 SURT.",
-           "ref": "TOY5857"
-         },
-         "7045858": {
-           "descripcion": "COOKEEZ MAKERY SET PANCAKES S2",
-           "ref": "TOY5858"
-         },
-         "7045859": {
-           "descripcion": "GO GLAM KIT SORPRESA",
-           "ref": "TOY5859"
-         },
-         "7045860": {
-           "descripcion": "FINGERLINGS MONO INTERACTIVO 2.0 SURT.",
-           "ref": "TOY5860"
-         },
-         "7045861": {
-           "descripcion": "FINGERLINGS UNICORNIO INTERACTIVO 2.0 - GIGI",
-           "ref": "TOY5861"
-         },
-         "7045862": {
-           "descripcion": "FINGERLINGS ADOPT ME INTERACTIVO SURT.",
-           "ref": "TOY5862"
-         },
-         "7045863": {
-           "descripcion": "LITTLE LIVE PETS NEEDEES MASCOTA X 1",
-           "ref": "TOY5863"
-         },
-         "7045864": {
-           "descripcion": "LITTLE LIVE PETS MI MASCOTA PINGÜINO",
-           "ref": "TOY5864"
-         },
-         "7045865": {
-           "descripcion": "LITTLE LIVE PETS BEBÉ MONO",
-           "ref": "TOY5865"
-         },
-         "7045866": {
-           "descripcion": "MINI WORLD COLECCIONABLES S1 SURT.",
-           "ref": "TOY5866"
-         },
-         "7045867": {
-           "descripcion": "MAGIC MIXIES MIXLINGS S3 CRYSTAL WOODS X 5 SURT.",
-           "ref": "TOY5867"
-         },
-         "7045868": {
-           "descripcion": "MAGIC MIXIES CALDERO MÁGICO GEMA SORPRESA S4",
-           "ref": "TOY5868"
-         },
-         "7045869": {
-           "descripcion": "BATMAN PACK X 4 FIG. 6\"",
-           "ref": "TOY5869"
-         },
-         "7045870": {
-           "descripcion": "BATMAN PACK X 8 FIG. 6\"",
-           "ref": "TOY5870"
-         },
-         "7045871": {
-           "descripcion": "BATMAN GIANT SERIES FIG. 12\" M01 SURT.",
-           "ref": "TOY5871"
-         },
-         "7045872": {
-           "descripcion": "BATMAN ADVENTURES FIG. 12\"NIGHT SKY",
-           "ref": "TOY5872"
-         },
-         "7045873": {
-           "descripcion": "BATMAN BATIMÓVIL INTL.1:16",
-           "ref": "TOY5873"
-         },
-         "7045874": {
-           "descripcion": "DC PACK X 3 FIG. 9,5\"",
-           "ref": "TOY5874"
-         },
-         "7045875": {
-           "descripcion": "DC MULITIVERSO FIGURA 12\" SURT.",
-           "ref": "TOY5875"
-         },
-         "7045876": {
-           "descripcion": "DC FIGURA 12\" FLASH",
-           "ref": "TOY5876"
-         },
-         "7045877": {
-           "descripcion": "GODZILLA X KONG TNE FIG. BÁSICA 6\" SURT.",
-           "ref": "TOY5877"
-         },
-         "7045878": {
-           "descripcion": "GODZILLA X KONG TNE FIG. EVOLUCIÓN DE LUJO 7\"",
-           "ref": "TOY5878"
-         },
-         "7045879": {
-           "descripcion": "GODZILLA X KONG FIG. GIGANTE .11\" SURT.",
-           "ref": "TOY5879"
-         },
-         "7045880": {
-           "descripcion": "GODZILLA X KONG TNE VS. 2 PACK FIG.6\" X 2 SURT.",
-           "ref": "TOY5880"
-         },
-         "7045881": {
-           "descripcion": "GOO JIT ZU SET CREADOR HÉROE X 1 SURT.",
-           "ref": "TOY5881"
-         },
-         "7045882": {
-           "descripcion": "GOO JIT ZU STRETCH STRIKERS X 1 SURT.",
-           "ref": "TOY5882"
-         },
-         "7045883": {
-           "descripcion": "GOO JIT ZU STRETCH STRIKERS DE LUJO X 1 SURT.",
-           "ref": "TOY5883"
-         },
-
-         
-            "7045884": {
-              "descripcion": "GOO JIT ZU STRETCH STRIKERS VS. X 2 SURT.",
-              "ref": "TOY5884"
-            },
-            "7045885": {
-              "descripcion": "GOO JIT ZU SONIC GLOW SURGE X 1 SURT.",
-              "ref": "TOY5885"
-            },
-            "7045886": {
-              "descripcion": "BLUEY SET FIGURA X 2 S11 SURT.",
-              "ref": "TOY5886"
-            },
-            "7045887": {
-              "descripcion": "BLUEY FIGURA X 2 S8. SURT.",
-              "ref": "TOY5887"
-            },
-            "7045888": {
-              "descripcion": "BLUEY MEJOR AMIGO FIG. BÁSICA 10\" S10",
-              "ref": "TOY5888"
-            },
-            "7045889": {
-              "descripcion": "BLUEY SET FIGURA X 4 S7 SURT.",
-              "ref": "TOY5889"
-            },
-            "7045890": {
-              "descripcion": "BLUEY SET FIGURA X 4 S11 SURT.",
-              "ref": "TOY5890"
-            },
-            "7045891": {
-              "descripcion": "BLUEY SET FIG. FAMILIA X 8 S7",
-              "ref": "TOY5891"
-            },
-            "7045892": {
-              "descripcion": "BLUEY MINI CASA DE BLUEY S10",
-              "ref": "TOY5892"
-            },
-            "7045893": {
-              "descripcion": "BLUEY CAMIÓN DE BOMBEROS S10",
-              "ref": "TOY5893"
-            },
-            "7045894": {
-              "descripcion": "BLUEY CASA CELEBRACIÓN CUMPLEAÑOS S11",
-              "ref": "TOY5894"
-            },
-            "7045895": {
-              "descripcion": "BLUEY S1 JUMBO PLUSH SINGLE PK - BLUEY",
-              "ref": "TOY5895"
-            },
-            "7045896": {
-              "descripcion": "GABBY'S DOLLHOUSE SET DE FIG. CUIDADO DE GATITOS",
-              "ref": "TOY5896"
-            },
-            "7045897": {
-              "descripcion": "GABBY'S DOLLHOUSE SET DE JUEGO BALCÓN SURT.",
-              "ref": "TOY5897"
-            },
-            "7045898": {
-              "descripcion": "GABBY`S DOLL HOUSE SET MINI JUEGO CASA MUÑECAS",
-              "ref": "TOY5898"
-            },
-            "7045899": {
-              "descripcion": "GABBY'S DOLLHOUSE SET FIG. MUSICAL",
-              "ref": "TOY5899"
-            },
-            "7045900": {
-              "descripcion": "GABBY`S DOLL HOUSE CONJUNTO JUEGO",
-              "ref": "TOY5900"
-            },
-            "7045901": {
-              "descripcion": "GABBY'S DOLLHOUSE SET ACTIVIDADES DE LUJO",
-              "ref": "TOY5901"
-            },
-            "7045902": {
-              "descripcion": "GABBY'S DOLLHOUSE MUÑECA VIAJE",
-              "ref": "TOY5902"
-            },
-            "7045903": {
-              "descripcion": "PAW PATROL MINI SET DE JUEGO TORRE V. SURT.",
-              "ref": "TOY5903"
-            },
-            "7045904": {
-              "descripcion": "PAW PATROL CORE VEH. PATRULLA BÁSICO X 1",
-              "ref": "TOY5904"
-            },
-            "7045905": {
-              "descripcion": "PAW PATROL COMBO MINI SET DE JUEGO TORRE V. SURT.",
-              "ref": "TOY5905"
-            },
-            "7045906": {
-              "descripcion": "PAW PATROL CORE PUP SQUAD FIG. X 1 RESCUE RACER SURT.",
-              "ref": "TOY5906"
-            },
-            "7045907": {
-              "descripcion": "PAW PATROL CORE RESCUE RACER TORRE DE CONTROL",
-              "ref": "TOY5907"
-            },
-            "7045908": {
-              "descripcion": "PAW PATROL CORE VEH. PATRULLA PUP SQUAD",
-              "ref": "TOY5908"
-            },
-            "7045909": {
-              "descripcion": "PAW PATROL CORE CONJ. DE FIG. PUP SQUAD RESCUE RACER",
-              "ref": "TOY5909"
-            },
-            "7045910": {
-              "descripcion": "PAW PATROL VEH. CHASE CRUCERO EQUIPO",
-              "ref": "TOY5910"
-            },
-            "7045911": {
-              "descripcion": "PAW PATROL TORRE VIGILANCIA BAHÍA AVENTURA",
-              "ref": "TOY5911"
-            },
-            "7045912": {
-              "descripcion": "PAW PATROL CORE VEH. PATRULLA LANZA & RESCATA",
-              "ref": "TOY5912"
-            },
-            "7045913": {
-              "descripcion": "PAW PATROL RESCUE WHEELS VEH. X 1 SURT.",
-              "ref": "TOY5913"
-            },
-            "7045914": {
-              "descripcion": "PAW PATROL RESCUE WHEELS CHASE VEHÍCULO DE LUJO",
-              "ref": "TOY5914"
-            },
-            "7045915": {
-              "descripcion": "HEDBANZ CLÁSICO NV",
-              "ref": "TOY5915"
-            },
-            "7045916": {
-              "descripcion": "HEDBANZ BLASTOFF",
-              "ref": "TOY5916"
-            },
-            "7045917": {
-              "descripcion": "RUBIKS SPEED",
-              "ref": "TOY5917"
-            },
-            "7045918": {
-              "descripcion": "RUBIKS SET DE INCIO (CUBO&LINEA)",
-              "ref": "TOY5918"
-            },
-
-
-	     "7280354": {
-        "descripcion": "BICICLETA ON TRAIL SPEED RACER 16",
-        "ref": "CIC0354"
-    },
-    "7280355": {
-        "descripcion": "BICICLETA MTB 20 LYNX 7VEL MECANICO GW",
-        "ref": "CIC0355"
-    },
-    "7280356": {
-        "descripcion": "BICICLETA PROFIT 20er JASPER Z2 8 VEL ALUMINIO",
-        "ref": "CIC0356"
-    },
-    "7280357": {
-        "descripcion": "BICICLETA PROFIT 24er JASPER Z1 8 VEL S ALUMINIO",
-        "ref": "CIC0357"
-    },
-    "7280358": {
-        "descripcion": "BICICLETA MTB 29 MONKEY ALUMINIO GW 7V DISCO",
-        "ref": "CIC0358"
-    },
-    "7280359": {
-        "descripcion": "BICICLETA PROFIT 29er BOSTON X10 10 VEL ALUMINIO",
-        "ref": "CIC0359"
-    },
-    "7280360": {
-        "descripcion": "BICICLETA MTB 29 GW HYENA 9.3 D/B HIDRAULICO 9 VEL",
-        "ref": "CIC0360"
-    },
-    "7011962": {
-        "descripcion": "FLOTADOR 0.7X1.50M - UND",
-        "ref": "JOS1962"
-    },
-    "7011963": {
-        "descripcion": "TABLA NATACION - UND",
-        "ref": "JOS1963"
-    },
-    "7011964": {
-        "descripcion": "BASTON DULCES GARRA - UND",
-        "ref": "JOS1964"
-    },
-    "7011965": {
-        "descripcion": "CALABAZA GRANDE NARANJA - UND",
-        "ref": "JOS1965"
-    },
-    "7300074": {
-        "descripcion": "ALMA DE 22.5 X 36.5 SUR PAPEL REGALO",
-        "ref": "VAR0074"
-    }
-}
-          
-          
-       
-       
-
-
-
-
-
-
-
-         
-         
-       
-       
-   
-   
+   "7045811": {
+      "descripcion": "BRB STACIE DOLL",
+      "ref": "TOY5811"
+   },
+   "7045812": {
+      "descripcion": "BRB LIGAYA DOLL",
+      "ref": "TOY5812"
+   },
+   "7045813": {
+      "descripcion": "BRB STACIE GO KRT",
+      "ref": "TOY5813"
+   },
+   "7045814": {
+      "descripcion": "BRB STACIE & BRB 2PK",
+      "ref": "TOY5814"
+   },
+   "7045815": {
+      "descripcion": "BRB CHLS PLSYT WTR SLIDE",
+      "ref": "TOY5815"
+   },
+   "7045816": {
+      "descripcion": "BRB SKIP BOUNCE NDV",
+      "ref": "TOY5816"
+   },
+   "7045817": {
+      "descripcion": "BRB CHLS CN BE PLN",
+      "ref": "TOY5817"
+   },
+   "7045818": {
+      "descripcion": "BRB NW LNG HR DL AST",
+      "ref": "TOY5818"
+   },
+   "7045819": {
+      "descripcion": "BRB OPP MRMD",
+      "ref": "TOY5819"
+   },
+   "7045820": {
+      "descripcion": "BRB SPPHR DL",
+      "ref": "TOY5820"
+   },
+   "7045821": {
+      "descripcion": "BRB ATOM PEGASUS",
+      "ref": "TOY5821"
+   },
+   "7045822": {
+      "descripcion": "BRB CLR RVL 4/1 SRS CDU",
+      "ref": "TOY5822"
+   },
+   "7045823": {
+      "descripcion": "BRB QT RVL 6/1 SRS",
+      "ref": "TOY5823"
+   },
+   "7045824": {
+      "descripcion": "BRB MTM SPORTS AST",
+      "ref": "TOY5824"
+   },
+   "7045825": {
+      "descripcion": "BRB CARE CLINIC",
+      "ref": "TOY5825"
+   },
+   "7045826": {
+      "descripcion": "PP SM FSH PK AST",
+      "ref": "TOY5826"
+   },
+   "7045827": {
+      "descripcion": "PP HD BDDY AST",
+      "ref": "TOY5827"
+   },
+   "7045828": {
+      "descripcion": "UNO FLIP ATTACK",
+      "ref": "TOY5828"
+   },
+   "7045829": {
+      "descripcion": "UNO FLIP TRANSFORMERS",
+      "ref": "TOY5829"
+   },
+   "7045830": {
+      "descripcion": "UNO DAYLIGHT",
+      "ref": "TOY5830"
+   },
+   "7045831": {
+      "descripcion": "UNO SPIDER-MAN",
+      "ref": "TOY5831"
+   },
+   "7045832": {
+      "descripcion": "UNO SHOW  EM NO MERCY",
+      "ref": "TOY5832"
+   },
+   "7045833": {
+      "descripcion": "HW ACTION GYRO STUNT SET",
+      "ref": "TOY5833"
+   },
+   "7045834": {
+      "descripcion": "HW CITY ICE CREAM SHOP",
+      "ref": "TOY5834"
+   },
+   "7045835": {
+      "descripcion": "HW RV 2-PK AST",
+      "ref": "TOY5835"
+   },
+   "7045836": {
+      "descripcion": "HW PULLBACKS SNGLS AST",
+      "ref": "TOY5836"
+   },
+   "7045837": {
+      "descripcion": "HW PULLBACKS 2PK AST",
+      "ref": "TOY5837"
+   },
+   "7045838": {
+      "descripcion": "CARS COLOR CHANGERS MACK",
+      "ref": "TOY5838"
+   },
+   "7045839": {
+      "descripcion": "JW FEAT ALLSRUS DINO SVTD",
+      "ref": "TOY5839"
+   },
+   "7045840": {
+      "descripcion": "JW DINO PACK ASST",
+      "ref": "TOY5840"
+   },
+   "7045841": {
+      "descripcion": "JW FEAT INDRPTR",
+      "ref": "TOY5841"
+   },
+   "7045842": {
+      "descripcion": "JW STRIKE ATTACK AST",
+      "ref": "TOY5842"
+   },
+   "7045843": {
+      "descripcion": "BUTTERFLY SHAPE SORTER",
+      "ref": "TOY5843"
+   },
+   "7045844": {
+      "descripcion": "ROCK-A-STACK - SLEEVE",
+      "ref": "TOY5844"
+   },
+   "7045845": {
+      "descripcion": "FP MINI BIBOT BELBOT",
+      "ref": "TOY5845"
+   },
+   "7045846": {
+      "descripcion": "PUPPYS REMOTE CIP- LA",
+      "ref": "TOY5846"
+   },
+   "7045847": {
+      "descripcion": "SMARTPHONE BLUE CIP- LA",
+      "ref": "TOY5847"
+   },
+   "7045848": {
+      "descripcion": "SMARTPHONE PINK CIP- LA",
+      "ref": "TOY5848"
+   },
+   "7045849": {
+      "descripcion": "LNL SS TABLET PIK CIP- LA",
+      "ref": "TOY5849"
+   },
+   "7045850": {
+      "descripcion": "SIS REMOTE CIP- LA",
+      "ref": "TOY5850"
+   },
+   "7045851": {
+      "descripcion": "GAME CONTROLLER - CAL",
+      "ref": "TOY5851"
+   },
+   "7045852": {
+      "descripcion": "FP M╙VIL NUBES",
+      "ref": "TOY5852"
+   },
+   "7045853": {
+      "descripcion": "SENSIMALS GYM",
+      "ref": "TOY5853"
+   },
+   "7045854": {
+      "descripcion": "IMX JW CARNO DINO",
+      "ref": "TOY5854"
+   },
+   "7045855": {
+      "descripcion": "COLOR CHANGERS AST",
+      "ref": "TOY5855"
+   },
+   "7045856": {
+      "descripcion": "DELIVERY SET",
+      "ref": "TOY5856"
+   },
+   "7200034": {
+      "descripcion": "COJIN ESTABILIZADOR EXTRASUAVE",
+      "ref": "ABA0034"
+   },
+   "7200035": {
+      "descripcion": "COCHE PASEADOR",
+      "ref": "ABA0035"
+   },
+   "7200036": {
+      "descripcion": "COCHE MOISES PEQUEÑO",
+      "ref": "ABA0036"
+   },
+   "7045857": {
+      "descripcion": "BABY PAWS MASCOTA S3 SURT.",
+      "ref": "TOY5857"
+   },
+   "7045858": {
+      "descripcion": "COOKEEZ MAKERY SET PANCAKES S2",
+      "ref": "TOY5858"
+   },
+   "7045859": {
+      "descripcion": "GO GLAM KIT SORPRESA",
+      "ref": "TOY5859"
+   },
+   "7045860": {
+      "descripcion": "FINGERLINGS MONO INTERACTIVO 2.0 SURT.",
+      "ref": "TOY5860"
+   },
+   "7045861": {
+      "descripcion": "FINGERLINGS UNICORNIO INTERACTIVO 2.0 - GIGI",
+      "ref": "TOY5861"
+   },
+   "7045862": {
+      "descripcion": "FINGERLINGS ADOPT ME INTERACTIVO SURT.",
+      "ref": "TOY5862"
+   },
+   "7045863": {
+      "descripcion": "LITTLE LIVE PETS NEEDEES MASCOTA X 1",
+      "ref": "TOY5863"
+   },
+   "7045864": {
+      "descripcion": "LITTLE LIVE PETS MI MASCOTA PINGÜINO",
+      "ref": "TOY5864"
+   },
+   "7045865": {
+      "descripcion": "LITTLE LIVE PETS BEBÉ MONO",
+      "ref": "TOY5865"
+   },
+   "7045866": {
+      "descripcion": "MINI WORLD COLECCIONABLES S1 SURT.",
+      "ref": "TOY5866"
+   },
+   "7045867": {
+      "descripcion": "MAGIC MIXIES MIXLINGS S3 CRYSTAL WOODS X 5 SURT.",
+      "ref": "TOY5867"
+   },
+   "7045868": {
+      "descripcion": "MAGIC MIXIES CALDERO MÁGICO GEMA SORPRESA S4",
+      "ref": "TOY5868"
+   },
+   "7045869": {
+      "descripcion": "BATMAN PACK X 4 FIG. 6\"",
+      "ref": "TOY5869"
+   },
+   "7045870": {
+      "descripcion": "BATMAN PACK X 8 FIG. 6\"",
+      "ref": "TOY5870"
+   },
+   "7045871": {
+      "descripcion": "BATMAN GIANT SERIES FIG. 12\" M01 SURT.",
+      "ref": "TOY5871"
+   },
+   "7045872": {
+      "descripcion": "BATMAN ADVENTURES FIG. 12\"NIGHT SKY",
+      "ref": "TOY5872"
+   },
+   "7045873": {
+      "descripcion": "BATMAN BATIMÓVIL INTL.1:16",
+      "ref": "TOY5873"
+   },
+   "7045874": {
+      "descripcion": "DC PACK X 3 FIG. 9,5\"",
+      "ref": "TOY5874"
+   },
+   "7045875": {
+      "descripcion": "DC MULITIVERSO FIGURA 12\" SURT.",
+      "ref": "TOY5875"
+   },
+   "7045876": {
+      "descripcion": "DC FIGURA 12\" FLASH",
+      "ref": "TOY5876"
+   },
+   "7045877": {
+      "descripcion": "GODZILLA X KONG TNE FIG. BÁSICA 6\" SURT.",
+      "ref": "TOY5877"
+   },
+   "7045878": {
+      "descripcion": "GODZILLA X KONG TNE FIG. EVOLUCIÓN DE LUJO 7\"",
+      "ref": "TOY5878"
+   },
+   "7045879": {
+      "descripcion": "GODZILLA X KONG FIG. GIGANTE .11\" SURT.",
+      "ref": "TOY5879"
+   },
+   "7045880": {
+      "descripcion": "GODZILLA X KONG TNE VS. 2 PACK FIG.6\" X 2 SURT.",
+      "ref": "TOY5880"
+   },
+   "7045881": {
+      "descripcion": "GOO JIT ZU SET CREADOR HÉROE X 1 SURT.",
+      "ref": "TOY5881"
+   },
+   "7045882": {
+      "descripcion": "GOO JIT ZU STRETCH STRIKERS X 1 SURT.",
+      "ref": "TOY5882"
+   },
+   "7045883": {
+      "descripcion": "GOO JIT ZU STRETCH STRIKERS DE LUJO X 1 SURT.",
+      "ref": "TOY5883"
+   },
+   "7045884": {
+      "descripcion": "GOO JIT ZU STRETCH STRIKERS VS. X 2 SURT.",
+      "ref": "TOY5884"
+   },
+   "7045885": {
+      "descripcion": "GOO JIT ZU SONIC GLOW SURGE X 1 SURT.",
+      "ref": "TOY5885"
+   },
+   "7045886": {
+      "descripcion": "BLUEY SET FIGURA X 2 S11 SURT.",
+      "ref": "TOY5886"
+   },
+   "7045887": {
+      "descripcion": "BLUEY FIGURA X 2 S8. SURT.",
+      "ref": "TOY5887"
+   },
+   "7045888": {
+      "descripcion": "BLUEY MEJOR AMIGO FIG. BÁSICA 10\" S10",
+      "ref": "TOY5888"
+   },
+   "7045889": {
+      "descripcion": "BLUEY SET FIGURA X 4 S7 SURT.",
+      "ref": "TOY5889"
+   },
+   "7045890": {
+      "descripcion": "BLUEY SET FIGURA X 4 S11 SURT.",
+      "ref": "TOY5890"
+   },
+   "7045891": {
+      "descripcion": "BLUEY SET FIG. FAMILIA X 8 S7",
+      "ref": "TOY5891"
+   },
+   "7045892": {
+      "descripcion": "BLUEY MINI CASA DE BLUEY S10",
+      "ref": "TOY5892"
+   },
+   "7045893": {
+      "descripcion": "BLUEY CAMIÓN DE BOMBEROS S10",
+      "ref": "TOY5893"
+   },
+   "7045894": {
+      "descripcion": "BLUEY CASA CELEBRACIÓN CUMPLEAÑOS S11",
+      "ref": "TOY5894"
+   },
+   "7045895": {
+      "descripcion": "BLUEY S1 JUMBO PLUSH SINGLE PK - BLUEY",
+      "ref": "TOY5895"
+   },
+   "7045896": {
+      "descripcion": "GABBY'S DOLLHOUSE SET DE FIG. CUIDADO DE GATITOS",
+      "ref": "TOY5896"
+   },
+   "7045897": {
+      "descripcion": "GABBY'S DOLLHOUSE SET DE JUEGO BALCÓN SURT.",
+      "ref": "TOY5897"
+   },
+   "7045898": {
+      "descripcion": "GABBY`S DOLL HOUSE SET MINI JUEGO CASA MUÑECAS",
+      "ref": "TOY5898"
+   },
+   "7045899": {
+      "descripcion": "GABBY'S DOLLHOUSE SET FIG. MUSICAL",
+      "ref": "TOY5899"
+   },
+   "7045900": {
+      "descripcion": "GABBY`S DOLL HOUSE CONJUNTO JUEGO",
+      "ref": "TOY5900"
+   },
+   "7045901": {
+      "descripcion": "GABBY'S DOLLHOUSE SET ACTIVIDADES DE LUJO",
+      "ref": "TOY5901"
+   },
+   "7045902": {
+      "descripcion": "GABBY'S DOLLHOUSE MUÑECA VIAJE",
+      "ref": "TOY5902"
+   },
+   "7045903": {
+      "descripcion": "PAW PATROL MINI SET DE JUEGO TORRE V. SURT.",
+      "ref": "TOY5903"
+   },
+   "7045904": {
+      "descripcion": "PAW PATROL CORE VEH. PATRULLA BÁSICO X 1",
+      "ref": "TOY5904"
+   },
+   "7045905": {
+      "descripcion": "PAW PATROL COMBO MINI SET DE JUEGO TORRE V. SURT.",
+      "ref": "TOY5905"
+   },
+   "7045906": {
+      "descripcion": "PAW PATROL CORE PUP SQUAD FIG. X 1 RESCUE RACER SURT.",
+      "ref": "TOY5906"
+   },
+   "7045907": {
+      "descripcion": "PAW PATROL CORE RESCUE RACER TORRE DE CONTROL",
+      "ref": "TOY5907"
+   },
+   "7045908": {
+      "descripcion": "PAW PATROL CORE VEH. PATRULLA PUP SQUAD",
+      "ref": "TOY5908"
+   },
+   "7045909": {
+      "descripcion": "PAW PATROL CORE CONJ. DE FIG. PUP SQUAD RESCUE RACER",
+      "ref": "TOY5909"
+   },
+   "7045910": {
+      "descripcion": "PAW PATROL VEH. CHASE CRUCERO EQUIPO",
+      "ref": "TOY5910"
+   },
+   "7045911": {
+      "descripcion": "PAW PATROL TORRE VIGILANCIA BAHÍA AVENTURA",
+      "ref": "TOY5911"
+   },
+   "7045912": {
+      "descripcion": "PAW PATROL CORE VEH. PATRULLA LANZA & RESCATA",
+      "ref": "TOY5912"
+   },
+   "7045913": {
+      "descripcion": "PAW PATROL RESCUE WHEELS VEH. X 1 SURT.",
+      "ref": "TOY5913"
+   },
+   "7045914": {
+      "descripcion": "PAW PATROL RESCUE WHEELS CHASE VEHÍCULO DE LUJO",
+      "ref": "TOY5914"
+   },
+   "7045915": {
+      "descripcion": "HEDBANZ CLÁSICO NV",
+      "ref": "TOY5915"
+   },
+   "7045916": {
+      "descripcion": "HEDBANZ BLASTOFF",
+      "ref": "TOY5916"
+   },
+   "7045917": {
+      "descripcion": "RUBIKS SPEED",
+      "ref": "TOY5917"
+   },
+   "7045918": {
+      "descripcion": "RUBIKS SET DE INCIO (CUBO&LINEA)",
+      "ref": "TOY5918"
+   },
+   "7080848": {
+      "descripcion": "ZOMBIENATION 2080",
+      "ref": "RON0848"
+   },
+   "7080849": {
+      "descripcion": "ROMPECABEZAS X 180 PZAS STITCH",
+      "ref": "RON0849"
+   },
+   "7080850": {
+      "descripcion": "TÍO RICO DISTRIBUTIVO",
+      "ref": "RON0850"
+   },
+   "7080851": {
+      "descripcion": "BÚSQUEDA DEL TESORO",
+      "ref": "RON0851"
+   },
+   "7080852": {
+      "descripcion": "EQUIPO DE RESCATE",
+      "ref": "RON0852"
+   },
+   "7080853": {
+      "descripcion": "SET DE CONSTRUCCIÓN",
+      "ref": "RON0853"
+   },
+   "7080854": {
+      "descripcion": "EXPLORADOR SAFARI",
+      "ref": "RON0854"
+   },
+   "7032042": {
+      "descripcion": "CAMINADOR INFANTIL CON ACCESORIOS",
+      "ref": "TON2042"
+   },
+   "7032043": {
+      "descripcion": "CAMINADOR INFANTIL CON ACCESORIOS",
+      "ref": "TON2043"
+   },
+   "7032044": {
+      "descripcion": "CAMINADOR INFANTIL CON ACCESORIOS",
+      "ref": "TON2044"
+   },
+   "7032045": {
+      "descripcion": "MALETA MASCOTA CON ACCESORIOS",
+      "ref": "TON2045"
+   },
+   "7032046": {
+      "descripcion": "MALETA INFANTIL CON ACCESORIOS",
+      "ref": "TON2046"
+   },
+   "7032047": {
+      "descripcion": "JUGUETE CARRO",
+      "ref": "TON2047"
+   },
+   "7032048": {
+      "descripcion": "JUGUETE CARRO",
+      "ref": "TON2048"
+   },
+   "7032049": {
+      "descripcion": "MALETA DINOSAURIO CON ACCESORIOS",
+      "ref": "TON2049"
+   },
+   "7032050": {
+      "descripcion": "ATARI FIGURAS",
+      "ref": "TON2050"
+   },
+   "7032051": {
+      "descripcion": "TAPETE INFANTIL SURTIDO",
+      "ref": "TON2051"
+   },
+   "7032052": {
+      "descripcion": "ATARI FIGURAS",
+      "ref": "TON2052"
+   },
+   "7032053": {
+      "descripcion": "JUGUETE CARRO  EN BOLSA",
+      "ref": "TON2053"
+   },
+   "7032054": {
+      "descripcion": "MUÑECA CON MOTO Y ACCESORIOS",
+      "ref": "TON2054"
+   },
+   "7032055": {
+      "descripcion": "JUGUETE AVION",
+      "ref": "TON2055"
+   },
+   "7032056": {
+      "descripcion": "DIDACTICO JENGA",
+      "ref": "TON2056"
+   },
+   "7032057": {
+      "descripcion": "MUÑECA CON CARRUAJE",
+      "ref": "TON2057"
+   },
+   "7032058": {
+      "descripcion": "JUEGO DE MANO CON ACCESORIOS\nSKYBOAR ARMABLE",
+      "ref": "TON2058"
+   },
+   "7032059": {
+      "descripcion": "MOTO CON ACCESORIOS",
+      "ref": "TON2059"
+   },
+   "7032060": {
+      "descripcion": "JUGUETE MOTO X 2",
+      "ref": "TON2060"
+   },
+   "7032061": {
+      "descripcion": "DIARIO INFANTIL",
+      "ref": "TON2061"
+   },
+   "7032062": {
+      "descripcion": "MUÑECA SURTIDA CON ACCESORIOS",
+      "ref": "TON2062"
+   },
+   "7032063": {
+      "descripcion": "MUÑECA SURTIDA CON ACCESORIOS EN MALETA",
+      "ref": "TON2063"
+   },
+   "7032064": {
+      "descripcion": "AVION CON ACCESORIOS",
+      "ref": "TON2064"
+   },
+   "7032065": {
+      "descripcion": "AVION DIDACTICO CON ACCESORIOS",
+      "ref": "TON2065"
+   },
+   "7032066": {
+      "descripcion": "BURBUJERO INFANTIL FIGURAS",
+      "ref": "TON2066"
+   },
+   "7032067": {
+      "descripcion": "DIARIO INFANTIL",
+      "ref": "TON2067"
+   },
+   "7032068": {
+      "descripcion": "DIARIO INFANTIL",
+      "ref": "TON2068"
+   },
+   "7032069": {
+      "descripcion": "CARRO TRAILER X 3",
+      "ref": "TON2069"
+   },
+   "7032070": {
+      "descripcion": "MUÑECAS CON ACCESORIOS",
+      "ref": "TON2070"
+   },
+   "7032071": {
+      "descripcion": "CETRO CON ACCESORIOS",
+      "ref": "TON2071"
+   },
+   "7032072": {
+      "descripcion": "JUEGO DE MANO",
+      "ref": "TON2072"
+   },
+   "7032073": {
+      "descripcion": "CARRO TRAILER X 5",
+      "ref": "TON2073"
+   },
+   "7032074": {
+      "descripcion": "JUEGO DE MANO LUZ Y SONIDO\nMINECRAFT",
+      "ref": "TON2074"
+   },
+   "7032075": {
+      "descripcion": "JUEGO DE MANO LUZ Y SONIDO\nMINECRAFT",
+      "ref": "TON2075"
+   },
+   "7032076": {
+      "descripcion": "JUEGO DE MANO",
+      "ref": "TON2076"
+   },
+   "7032077": {
+      "descripcion": "JUGUETE CARRO CUATRIMOTO",
+      "ref": "TON2077"
+   },
+   "7032078": {
+      "descripcion": "JUGUETE CARRO",
+      "ref": "TON2078"
+   },
+   "7032079": {
+      "descripcion": "KIT DE HERRAMIENTAS",
+      "ref": "TON2079"
+   },
+   "7032080": {
+      "descripcion": "KIT DE HERRAMIENTAS",
+      "ref": "TON2080"
+   },
+   "7032081": {
+      "descripcion": "SET CARRO NIÑERA",
+      "ref": "TON2081"
+   },
+   "7032082": {
+      "descripcion": "DIDACTICO CARRO CON ACCESORIOS",
+      "ref": "TON2082"
+   },
+   "7032083": {
+      "descripcion": "DIDACTICO CARRO CON ACCESORIOS",
+      "ref": "TON2083"
+   },
+   "7032084": {
+      "descripcion": "JUGUETE CARRO",
+      "ref": "TON2084"
+   },
+   "7032085": {
+      "descripcion": "MUÑECA CON PATINETA",
+      "ref": "TON2085"
+   },
+   "7032086": {
+      "descripcion": "KIT DE EMERGENCIAS CON ACCESORIOS",
+      "ref": "TON2086"
+   },
+   "7032087": {
+      "descripcion": "SET DE MUÑECOS CON ACCESORIOS",
+      "ref": "TON2087"
+   },
+   "7032088": {
+      "descripcion": "GIMNASIO CAMINADOR PARA BEBE 2 EN 1",
+      "ref": "TON2088"
+   },
+   "7032089": {
+      "descripcion": "CAMINADOR 2 EN 1 INFANTIL CON ACCESORIOS",
+      "ref": "TON2089"
+   },
+   "7032090": {
+      "descripcion": "BURBUJERO CON ACCESORIOS",
+      "ref": "TON2090"
+   },
+   "7032091": {
+      "descripcion": "HELICOPTERO INFANTIL",
+      "ref": "TON2091"
+   },
+   "7032092": {
+      "descripcion": "CARRO SET X 2",
+      "ref": "TON2092"
+   },
+   "7032093": {
+      "descripcion": "CARRO AMBULANCIA",
+      "ref": "TON2093"
+   },
+   "7032094": {
+      "descripcion": "CARRO BOMBERO",
+      "ref": "TON2094"
+   },
+   "7032095": {
+      "descripcion": "CARRO POLICIA",
+      "ref": "TON2095"
+   },
+   "7032096": {
+      "descripcion": "MARIQUITA INFANTIL",
+      "ref": "TON2096"
+   },
+   "7032097": {
+      "descripcion": "DINOSAURIO INFANTIL",
+      "ref": "TON2097"
+   },
+   "7032098": {
+      "descripcion": "LOCOMOTORA INFANTIL CON VAPOR",
+      "ref": "TON2098"
+   },
+   "7032099": {
+      "descripcion": "DINOSAURIO INFANTIL CON VAPOR",
+      "ref": "TON2099"
+   },
+   "7032100": {
+      "descripcion": "JUGUETE INFANTIL BAILARINA",
+      "ref": "TON2100"
+   },
+   "7032101": {
+      "descripcion": "JUGUETE INFANTIL UNICORNIO",
+      "ref": "TON2101"
+   },
+   "7760195": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO 976PCS",
+      "ref": "BOY0195"
+   },
+   "7760196": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO 642PCS",
+      "ref": "BOY0196"
+   },
+   "7760197": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO 180PCS",
+      "ref": "BOY0197"
+   },
+   "7760198": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO  175PCS",
+      "ref": "BOY0198"
+   },
+   "7760199": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO  178PCS",
+      "ref": "BOY0199"
+   },
+   "7760200": {
+      "descripcion": "SET BLOQUES DE VEHÍCULO 288PCS",
+      "ref": "BOY0200"
+   },
+   "7760201": {
+      "descripcion": "SET DE BLOQUES RESCATE  249PCS",
+      "ref": "BOY0201"
+   },
+   "7760202": {
+      "descripcion": "SET DE BLOQUES CONSTRUCCION 235PCS",
+      "ref": "BOY0202"
+   },
+   "7760203": {
+      "descripcion": "SET DE BLOQUES AERONAVES 248PCS",
+      "ref": "BOY0203"
+   },
+   "7760204": {
+      "descripcion": "SET DE BLOQUES",
+      "ref": "BOY0204"
+   },
+   "7760205": {
+      "descripcion": "SET DE BLOQUES POLICIAL 249PCS",
+      "ref": "BOY0205"
+   },
+   "7760206": {
+      "descripcion": "SET DE BLOQUES CONCIERTO 326PCS",
+      "ref": "BOY0206"
+   },
+   "7760207": {
+      "descripcion": "SET DE BLOQUES BARCO VIKINGOS 302PCS",
+      "ref": "BOY0207"
+   },
+   "7760208": {
+      "descripcion": "SET DE BLOQUES  ESPACIAL 127PCS",
+      "ref": "BOY0208"
+   },
+   "7760209": {
+      "descripcion": "SET DE BLOQUES SATELITE ESPACIAL 129PCS",
+      "ref": "BOY0209"
+   },
+   "7760210": {
+      "descripcion": "SET DE BLOQUES DE VEHÍCULOS",
+      "ref": "BOY0210"
+   },
+   "7760211": {
+      "descripcion": "SET DE BLOQUES  NAVES ESPACIALES 176PCS",
+      "ref": "BOY0211"
+   },
+   "7760212": {
+      "descripcion": "SET DE BLOQUES MUÑECO ESPACIAL 316PCS",
+      "ref": "BOY0212"
+   },
+   "7760213": {
+      "descripcion": "SET BLOQUES 600PCS",
+      "ref": "BOY0213"
+   },
+   "7760214": {
+      "descripcion": "SET DE BLOQUES TREN 623PCS",
+      "ref": "BOY0214"
+   },
+   "7760215": {
+      "descripcion": "SET DE BLOQUES HELICÓPTERO 260PCS",
+      "ref": "BOY0215"
+   },
+   "7760216": {
+      "descripcion": "SET DE BLOQUES HELADERÍA 189PCS",
+      "ref": "BOY0216"
+   },
+   "7760217": {
+      "descripcion": "SET DE BLOQUES TOBOGÁN 412PCS",
+      "ref": "BOY0217"
+   },
+   "7760218": {
+      "descripcion": "SET DE BLOQUES ESPACIAL",
+      "ref": "BOY0218"
+   },
+   "7760219": {
+      "descripcion": "SET DE BLOQUES ESTACIÓN ESPACIAL 595PCS",
+      "ref": "BOY0219"
+   },
+   "7760220": {
+      "descripcion": "SET DE BLOQUES COHETE 404PCS",
+      "ref": "BOY0220"
+   },
+   "7760221": {
+      "descripcion": "SET DE BLOQUES RESCATISTAS 378PCS",
+      "ref": "BOY0221"
+   },
+   "7760222": {
+      "descripcion": "SET DE BLOQUES YATE 351PCS",
+      "ref": "BOY0222"
+   },
+   "7760223": {
+      "descripcion": "SET DE BLOQUES DE PIRATA 308PCS",
+      "ref": "BOY0223"
+   },
+   "7760224": {
+      "descripcion": "SET DE BLOQUES CARRO DE BOMBERO 411 PCS",
+      "ref": "BOY0224"
+   },
+   "7760225": {
+      "descripcion": "SET DE BLOQUES AVION DE BOMBERO 430PCS",
+      "ref": "BOY0225"
+   },
+   "7760226": {
+      "descripcion": "SET DE BLOQUES DE BOMBERO 613PCS",
+      "ref": "BOY0226"
+   },
+   "7760227": {
+      "descripcion": "SET DE BLOQUES DE POLICÍA 185PCS",
+      "ref": "BOY0227"
+   },
+   "7760228": {
+      "descripcion": "SET DE BLOQUES DE POLICÍA 731PCS",
+      "ref": "BOY0228"
+   },
+   "7760229": {
+      "descripcion": "SET DE BLOQUES DE POLICÍA  812PCS",
+      "ref": "BOY0229"
+   },
+   "7760230": {
+      "descripcion": "SET DE BLOQUES NAVAL 594PCS",
+      "ref": "BOY0230"
+   },
+   "7760231": {
+      "descripcion": "SET DE BLOQUES BOMBEROS",
+      "ref": "BOY0231"
+   },
+   "7760232": {
+      "descripcion": "SET DE BLOQUES POLICIAS",
+      "ref": "BOY0232"
+   },
+   "7760233": {
+      "descripcion": "SET DE BLOQUES CASTILLO 555PCS",
+      "ref": "BOY0233"
+   },
+   "7760234": {
+      "descripcion": "SET DE BLOQUES COMERCIO 376PCS",
+      "ref": "BOY0234"
+   },
+   "7760235": {
+      "descripcion": "SET DE VEHÍCULO Y JARDÍN 182PCS",
+      "ref": "BOY0235"
+   },
+   "7760236": {
+      "descripcion": "SET DE BLOQUES PLAYA CON 191PCS",
+      "ref": "BOY0236"
+   },
+   "7760237": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO CON 491PCS",
+      "ref": "BOY0237"
+   },
+   "7760238": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO  CON 501PCS",
+      "ref": "BOY0238"
+   },
+   "7760239": {
+      "descripcion": "SET DE BLOQUES MOTOCICLETA CON 600PCS",
+      "ref": "BOY0239"
+   },
+   "7760240": {
+      "descripcion": "SET DE BLOQUES DE CARRERAS CON 157PCS",
+      "ref": "BOY0240"
+   },
+   "7760241": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO CON 173PCS",
+      "ref": "BOY0241"
+   },
+   "7760242": {
+      "descripcion": "SET DE BLOQUES ESPACIAL CON 309PCS",
+      "ref": "BOY0242"
+   },
+   "7760243": {
+      "descripcion": "SET DE BLOQUES BOMBEROS CON 354PCS",
+      "ref": "BOY0243"
+   },
+   "7760244": {
+      "descripcion": "SET DE BLOQUES POLICIAL CON 164PCS",
+      "ref": "BOY0244"
+   },
+   "7760245": {
+      "descripcion": "SET DE BLOQUES POLICIAL CON 368PCS",
+      "ref": "BOY0245"
+   },
+   "7760246": {
+      "descripcion": "SET DE BLOQUES POLICIAL CON 857PCS",
+      "ref": "BOY0246"
+   },
+   "7760247": {
+      "descripcion": "SET DE BLOQUES VEHÍCULOS CON 178PCS",
+      "ref": "BOY0247"
+   },
+   "7760248": {
+      "descripcion": "SET DE BLOQUES DE CONTRUCCIÓN CON 263PCS",
+      "ref": "BOY0248"
+   },
+   "7760249": {
+      "descripcion": "SET DE BLOQUES DE CONTRUCCIÓN CON 604PCS",
+      "ref": "BOY0249"
+   },
+   "7760250": {
+      "descripcion": "SET DE BLOQUES YATE POLICIAL CON 285PCS",
+      "ref": "BOY0250"
+   },
+   "7760251": {
+      "descripcion": "SET DE BLOQUES POLICIAL CON 406PCS",
+      "ref": "BOY0251"
+   },
+   "7760252": {
+      "descripcion": "SET DE BLOQUES DE BOMBEROS CON 178PCS",
+      "ref": "BOY0252"
+   },
+   "7760253": {
+      "descripcion": "SET DE BLOQUES DE BOMBEROS CON 164PCS",
+      "ref": "BOY0253"
+   },
+   "7760254": {
+      "descripcion": "SET DE BLOQUES DE BOMBEROS CON 827PCS",
+      "ref": "BOY0254"
+   },
+   "7760255": {
+      "descripcion": "SET DE BLOQUES DE BOMBEROS CON 316PCS",
+      "ref": "BOY0255"
+   },
+   "7760256": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO CON 589PCS",
+      "ref": "BOY0256"
+   },
+   "7760257": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO CON 569PCS",
+      "ref": "BOY0257"
+   },
+   "7760258": {
+      "descripcion": "SET DE BLOQUES VEHÍCULO CON 595PCS",
+      "ref": "BOY0258"
+   },
+   "7760259": {
+      "descripcion": "SET DE COCINA",
+      "ref": "BOY0259"
+   },
+   "7760260": {
+      "descripcion": "SET DE COCINA",
+      "ref": "BOY0260"
+   },
+   "7760262": {
+      "descripcion": "SET DE BELLEZA",
+      "ref": "BOY0262"
+   },
+   "7760263": {
+      "descripcion": "SET DE TÉ",
+      "ref": "BOY0263"
+   },
+   "7760264": {
+      "descripcion": "SET DE CASA DE MASCOTAS",
+      "ref": "BOY0264"
+   },
+   "7760265": {
+      "descripcion": "SET DE CASA DE MASCOTAS",
+      "ref": "BOY0265"
+   },
+   "7760266": {
+      "descripcion": "SET DE CASA PLAYERA",
+      "ref": "BOY0266"
+   },
+   "7760269": {
+      "descripcion": "SET DE BELLEZA",
+      "ref": "BOY0269"
+   },
+   "7760270": {
+      "descripcion": "SET DE UTENSILIOS DE COCINA",
+      "ref": "BOY0270"
+   },
+   "7760271": {
+      "descripcion": "SET CASTILLO",
+      "ref": "BOY0271"
+   },
+   "7760272": {
+      "descripcion": "SET DE LIMPIEZA",
+      "ref": "BOY0272"
+   },
+   "7760273": {
+      "descripcion": "LANZADOR CON VEHÍCULO",
+      "ref": "BOY0273"
+   },
+   "7760274": {
+      "descripcion": "PISTA DE VEHÍCULOS ",
+      "ref": "BOY0274"
+   },
+   "7760275": {
+      "descripcion": "SET DE INSTRUMENTOS MÚSICALES",
+      "ref": "BOY0275"
+   },
+   "7760276": {
+      "descripcion": "SET DE HERRAMIENTAS VARIADO",
+      "ref": "BOY0276"
+   },
+   "7760277": {
+      "descripcion": "PISTOLA DE DARDOS DRAGÓN",
+      "ref": "BOY0277"
+   },
+   "7760286": {
+      "descripcion": "SET COCINA PASTELERÍA",
+      "ref": "BOY0286"
+   },
+   "7760287": {
+      "descripcion": "SET DE HORA DEL TÉ",
+      "ref": "BOY0287"
+   },
+   "7760288": {
+      "descripcion": "SET DE COCINA",
+      "ref": "BOY0288"
+   },
+   "7760289": {
+      "descripcion": "SET COCINA PASTELERÍA",
+      "ref": "BOY0289"
+   },
+   "7760291": {
+      "descripcion": "SET DE CREACIÓN DE MANILLAS",
+      "ref": "BOY0291"
+   },
+   "7760292": {
+      "descripcion": "SET DE CREACIÓN DE MANILLAS",
+      "ref": "BOY0292"
+   },
+   "7760293": {
+      "descripcion": "SET DE CREACIÓN DE MANILLAS Y PEINADOS",
+      "ref": "BOY0293"
+   },
+   "7760294": {
+      "descripcion": "SET DE CREACIÓN DE MANILLAS",
+      "ref": "BOY0294"
+   },
+   "7760297": {
+      "descripcion": "PISTOLA DE DARDOS 4 DARDOS",
+      "ref": "BOY0297"
+   },
+   "7760298": {
+      "descripcion": "PISTOLA DARDOS CON TABLERO Y 24 DARDOS",
+      "ref": "BOY0298"
+   },
+   "7760299": {
+      "descripcion": "PISTOLA DE DARDOS CON 12 DARDOS",
+      "ref": "BOY0299"
+   },
+   "7760300": {
+      "descripcion": "TABLERO MÁGICO",
+      "ref": "BOY0300"
+   },
+   "7760301": {
+      "descripcion": "TABLERO DIDÁCTICO",
+      "ref": "BOY0301"
+   },
+   "7760313": {
+      "descripcion": "REGISTRADORA CON LUZ Y SONIDOS",
+      "ref": "BOY0313"
+   },
+   "7760317": {
+      "descripcion": "SET DE MINI MARKET",
+      "ref": "BOY0317"
+   },
+   "7760318": {
+      "descripcion": "AUDÍFONOS DECORABLES",
+      "ref": "BOY0318"
+   },
+   "7760319": {
+      "descripcion": "SET COSEDOR DE MANILLAS",
+      "ref": "BOY0319"
+   },
+   "7760320": {
+      "descripcion": "SET PARA HACER MANILLAS",
+      "ref": "BOY0320"
+   },
+   "7760325": {
+      "descripcion": "PISTOLA DE AGUA BOMBERO CON 3052ML",
+      "ref": "BOY0325"
+   },
+   "7760326": {
+      "descripcion": "PISTOLA DE AGUA POLICIA CON 3052ML",
+      "ref": "BOY0326"
+   },
+   "7760327": {
+      "descripcion": "PISTOLA DE AGUA RANA CON 1000ML",
+      "ref": "BOY0327"
+   },
+   "7760328": {
+      "descripcion": "PISTOLA DE AGUA GIRAFA CON 1020ML",
+      "ref": "BOY0328"
+   },
+   "7760329": {
+      "descripcion": "PISTOLA DE AGUA DE 55 CM",
+      "ref": "BOY0329"
+   },
+   "7760335": {
+      "descripcion": "COCINA CON LUZ Y SONIDO ROSADO",
+      "ref": "BOY0335"
+   },
+   "7760336": {
+      "descripcion": "MALETA ESPACIAL CON LUZ Y SONIDO",
+      "ref": "BOY0336"
+   },
+   "7760337": {
+      "descripcion": "MALETA ESPACIAL CON LUZ Y SONIDO",
+      "ref": "BOY0337"
+   },
+   "7760338": {
+      "descripcion": "TOCADOR LUZ Y SONIDO",
+      "ref": "BOY0338"
+   },
+   "7760340": {
+      "descripcion": "PUESTO DE COMIDAS RÁPIDA",
+      "ref": "BOY0340"
+   },
+   "7760347": {
+      "descripcion": "SET VILLA DE ENSAMBLE 191 PIEZAS",
+      "ref": "BOY0347"
+   },
+   "7760353": {
+      "descripcion": "PISTA DE DINOSAURIOS CON CARRO Y LUZ",
+      "ref": "BOY0353"
+   },
+   "7760354": {
+      "descripcion": "PISTA DE TIBURÓN",
+      "ref": "BOY0354"
+   },
+   "7760355": {
+      "descripcion": "PISTA BRILLANTE TIBURÓN CARRO CON LUZ",
+      "ref": "BOY0355"
+   },
+   "7760356": {
+      "descripcion": "PISTA BRILLA EN OSCURIDAD CARRO CON LUZ",
+      "ref": "BOY0356"
+   },
+   "7760357": {
+      "descripcion": "PISTA CON VEHÍCULO CARRO CON LUZ",
+      "ref": "BOY0357"
+   },
+   "7760366": {
+      "descripcion": "PISTA GIROS",
+      "ref": "BOY0366"
+   },
+   "7760367": {
+      "descripcion": "PISTA GIROS",
+      "ref": "BOY0367"
+   },
+   "7760374": {
+      "descripcion": "PISTA PARQUEADERO",
+      "ref": "BOY0374"
+   },
+   "7760375": {
+      "descripcion": "PISTA CON CAMIÓN",
+      "ref": "BOY0375"
+   },
+   "7760379": {
+      "descripcion": "PISTA ESTACIONAMIENTO",
+      "ref": "BOY0379"
+   },
+   "7760380": {
+      "descripcion": "PISTA ESTACIONAMIENTO",
+      "ref": "BOY0380"
+   },
+   "7760381": {
+      "descripcion": "XILOFONO CON TAMBOR",
+      "ref": "BOY0381"
+   },
+   "7760382": {
+      "descripcion": "SET DE INSTRUMENTOS MUSICALES",
+      "ref": "BOY0382"
+   },
+   "7760383": {
+      "descripcion": "SET DE INSTRUMENTOS MUSICALES",
+      "ref": "BOY0383"
+   },
+   "7760391": {
+      "descripcion": "VEHÍCULO DE BOMBERO CON CONTROL REMOTO",
+      "ref": "BOY0391"
+   },
+   "7760394": {
+      "descripcion": "CAMIÓN CON DINOSAURIO CON LUZ Y SONIDO",
+      "ref": "BOY0394"
+   },
+   "7760395": {
+      "descripcion": "CAMIÓN CON DINOSAURIO CON LUZ Y SONIDO",
+      "ref": "BOY0395"
+   },
+   "7760397": {
+      "descripcion": "TREN CON LUZ",
+      "ref": "BOY0397"
+   },
+   "7760398": {
+      "descripcion": "TREN CON LUZ Y MÚSICA",
+      "ref": "BOY0398"
+   },
+   "7760403": {
+      "descripcion": "AGITADOR ELÉCTRICO  CON LUZ Y MÚSICA",
+      "ref": "BOY0403"
+   },
+   "7760404": {
+      "descripcion": "VOLQUETE ELÉCTRICO  CON LUZ Y MÚSICA",
+      "ref": "BOY0404"
+   },
+   "7760405": {
+      "descripcion": "EXCAVADORA ELÉCTRICA  CON LUZ Y MÚSICA",
+      "ref": "BOY0405"
+   },
+   "7760406": {
+      "descripcion": "BULLDOZER  CON LUZ Y MÚSICA",
+      "ref": "BOY0406"
+   },
+   "7760407": {
+      "descripcion": "VEHÍCULO BOMBERO CON CONTROL REMOTO",
+      "ref": "BOY0407"
+   },
+   "7760408": {
+      "descripcion": "VEHÍCULO DE BOMBERO CON CONTROL REMOTO",
+      "ref": "BOY0408"
+   },
+   "7760409": {
+      "descripcion": "VEHÍCULO DE ELEVADOR CON CONTROL REMOTO",
+      "ref": "BOY0409"
+   },
+   "7760416": {
+      "descripcion": "SET CON 1 CAMIÓN Y 2 VEHÍCULOS",
+      "ref": "BOY0416"
+   },
+   "7760417": {
+      "descripcion": "SET CON 1 CAMIÓN Y 2 VEHÍCULOS",
+      "ref": "BOY0417"
+   },
+   "7760418": {
+      "descripcion": "SET DE 4 VEHÍCULOS DE POLICÍA ",
+      "ref": "BOY0418"
+   },
+   "7760419": {
+      "descripcion": "SET DE 4 VEHÍCULOS DE CONSTRUCCIÓN ",
+      "ref": "BOY0419"
+   },
+   "7760422": {
+      "descripcion": "SET DE VEHÍCULOS DE POLICIA",
+      "ref": "BOY0422"
+   },
+   "7760423": {
+      "descripcion": "SET DE VEHÍCULOS DE CONSTRUCCIÓN ",
+      "ref": "BOY0423"
+   },
+   "7760424": {
+      "descripcion": "VEHÍCULO TRANSFORMER",
+      "ref": "BOY0424"
+   },
+   "7760425": {
+      "descripcion": "VEHÍCULO TRANSFORMER",
+      "ref": "BOY0425"
+   },
+   "7760426": {
+      "descripcion": "VEHÍCULO TRANSFORMER",
+      "ref": "BOY0426"
+   },
+   "7760436": {
+      "descripcion": "CARRO LOCO LUCES A CONTROL REMOTO",
+      "ref": "BOY0436"
+   },
+   "7760438": {
+      "descripcion": "SET DE FUTBOL CON MOVIMIENTO Y LUZ",
+      "ref": "BOY0438"
+   },
+   "7760509": {
+      "descripcion": "SET DE SONAJEROS PARA BEBÉS",
+      "ref": "BOY0509"
+   },
+   "7760510": {
+      "descripcion": "SET DE SONAJEROS PARA BEBÉS",
+      "ref": "BOY0510"
+   },
+   "7760511": {
+      "descripcion": "SET DE SONAJEROS PARA BEBÉS",
+      "ref": "BOY0511"
+   },
+   "7760512": {
+      "descripcion": "SET DE SONAJEROS PARA BEBÉS",
+      "ref": "BOY0512"
+   },
+   "7760513": {
+      "descripcion": "SET DE BLOQUES",
+      "ref": "BOY0513"
+   },
+   "7760514": {
+      "descripcion": "SET DE BLOQUES",
+      "ref": "BOY0514"
+   },
+   "7760516": {
+      "descripcion": "HELICOPTERO Y BARCO CON SONIDO",
+      "ref": "BOY0516"
+   },
+   "7760519": {
+      "descripcion": "JUGUETE MESA INTERACTIVA LUZ Y MÚSICA",
+      "ref": "BOY0519"
+   },
+   "7760521": {
+      "descripcion": "JUGUETE MESA INTERACTIVA LUZ Y MÚSICA",
+      "ref": "BOY0521"
+   },
+   "7760524": {
+      "descripcion": "TABLERO",
+      "ref": "BOY0524"
+   },
+   "7760525": {
+      "descripcion": "XILOFONO",
+      "ref": "BOY0525"
+   },
+   "7760526": {
+      "descripcion": "XILOFONO",
+      "ref": "BOY0526"
+   },
+   "7760527": {
+      "descripcion": "TABLERO CON BASE",
+      "ref": "BOY0527"
+   },
+   "7760528": {
+      "descripcion": "TABLERO CON BASE",
+      "ref": "BOY0528"
+   },
+   "7760535": {
+      "descripcion": "SET DE 2 LANCHAS RÁPIDAS",
+      "ref": "BOY0535"
+   },
+   "7760537": {
+      "descripcion": "JUEGO DE PESCA",
+      "ref": "BOY0537"
+   },
+   "7760538": {
+      "descripcion": "JUEGO DIDACTICO DE APRENDIZAJE",
+      "ref": "BOY0538"
+   },
+   "7760539": {
+      "descripcion": "JUEGO DE PESCA",
+      "ref": "BOY0539"
+   },
+   "7760540": {
+      "descripcion": "SET LANZADORES GIROSCOPIOS.",
+      "ref": "BOY0540"
+   },
+   "7760541": {
+      "descripcion": "TABLERO MÁGICO A COLOR",
+      "ref": "BOY0541"
+   },
+   "7760542": {
+      "descripcion": "TABLERO MÁGICO A COLOR",
+      "ref": "BOY0542"
+   },
+   "7760543": {
+      "descripcion": "SET DE VEHÍCULOS",
+      "ref": "BOY0543"
+   },
+   "7760544": {
+      "descripcion": "SET DE VEHÍCULOS",
+      "ref": "BOY0544"
+   },
+   "7760545": {
+      "descripcion": "SET DE VEHÍCULOS",
+      "ref": "BOY0545"
+   },
+   "7760546": {
+      "descripcion": "MUÑECA SIRENA CON PIERNAS",
+      "ref": "BOY0546"
+   },
+   "7760547": {
+      "descripcion": "MUÑECA SIRENA CON SIRENA PEQUEÑA",
+      "ref": "BOY0547"
+   },
+   "7760548": {
+      "descripcion": "MESA DE BLOQUES CON 85 PIEZAS Y SILLA",
+      "ref": "BOY0548"
+   },
+   "7760549": {
+      "descripcion": "TABLERO CON  PROYECTOR PARA DIBUJO",
+      "ref": "BOY0549"
+   },
+   "7760550": {
+      "descripcion": "JUGUETE PARA BEBÉS ",
+      "ref": "BOY0550"
+   },
+   "7760553": {
+      "descripcion": "JUGUETES INFLABLES QUE SE TAMBALEAN",
+      "ref": "BOY0553"
+   },
+   "7760556": {
+      "descripcion": "XILOFONO DE JUGUETE",
+      "ref": "BOY0556"
+   },
+   "7760557": {
+      "descripcion": "XILOFONO DE DELFÍN",
+      "ref": "BOY0557"
+   },
+   "7760558": {
+      "descripcion": "PISTOLA DE BURBUJAS",
+      "ref": "BOY0558"
+   },
+   "7760559": {
+      "descripcion": "JUGUETE AVION ARRASTRE",
+      "ref": "BOY0559"
+   },
+   "7760560": {
+      "descripcion": "JUGUETE ANIMALITO ARRASTRE",
+      "ref": "BOY0560"
+   },
+   "7760561": {
+      "descripcion": "SET DE PLASTILINA (PRENSA MANUAL).",
+      "ref": "BOY0561"
+   },
+   "7760562": {
+      "descripcion": "SET DE PLASTILINA (MÁQUINA DE HELADOS).",
+      "ref": "BOY0562"
+   },
+   "7760563": {
+      "descripcion": "SET DE PLASTILINA (MÁQUINA DE FIDEOS).",
+      "ref": "BOY0563"
+   },
+   "7760564": {
+      "descripcion": "SET DE PLASTILINA DE COLORES",
+      "ref": "BOY0564"
+   },
+   "7760565": {
+      "descripcion": "PISTOLA DE AGUA DE 100 ML",
+      "ref": "BOY0565"
+   },
+   "7280354": {
+      "descripcion": "BICICLETA ON TRAIL SPEED RACER 16",
+      "ref": "CIC0354"
+   },
+   "7280355": {
+      "descripcion": "BICICLETA MTB 20 LYNX 7VEL MECANICO GW",
+      "ref": "CIC0355"
+   },
+   "7280356": {
+      "descripcion": "BICICLETA PROFIT 20er JASPER Z2 8 VEL ALUMINIO",
+      "ref": "CIC0356"
+   },
+   "7280357": {
+      "descripcion": "BICICLETA PROFIT 24er JASPER Z1 8 VEL S ALUMINIO",
+      "ref": "CIC0357"
+   },
+   "7280358": {
+      "descripcion": "BICICLETA MTB 29 MONKEY ALUMINIO GW 7V DISCO",
+      "ref": "CIC0358"
+   },
+   "7280359": {
+      "descripcion": "BICICLETA PROFIT 29er BOSTON X10 10 VEL ALUMINIO",
+      "ref": "CIC0359"
+   },
+   "7280360": {
+      "descripcion": "BICICLETA MTB 29 GW HYENA 9.3 D/B HIDRAULICO 9 VEL",
+      "ref": "CIC0360"
+   },
+   "7261483": {
+      "descripcion": "OPERANDO DOCTOR LOCO",
+      "ref": "FAR1483"
+   },
+   "7011962": {
+      "descripcion": "FLOTADOR 0.7X1.50M - UND",
+      "ref": "JOS1962"
+   },
+   "7011963": {
+      "descripcion": "TABLA NATACION - UND",
+      "ref": "JOS1963"
+   },
+   "7011964": {
+      "descripcion": "BASTON DULCES GARRA - UND",
+      "ref": "JOS1964"
+   },
+   "7011965": {
+      "descripcion": "CALABAZA GRANDE NARANJA - UND",
+      "ref": "JOS1965"
+   },
+   "7011966": {
+      "descripcion": "SET HUEVOS X14 BX240 116/24 - UND - DG-3",
+      "ref": "JOS1966"
+   },
+   "7011967": {
+      "descripcion": "SONAJERO DE ARRASTRE BX96 113/24 ",
+      "ref": "JOS1967"
+   },
+   "7011968": {
+      "descripcion": "SET BOLAS PARA ARMAR FIGURAS BX200",
+      "ref": "JOS1968"
+   },
+   "7011969": {
+      "descripcion": "SET HERRAMIENTAS CON CASCO BX96 114/24 ",
+      "ref": "JOS1969"
+   },
+   "7011970": {
+      "descripcion": "TABLERO MAGICO BX60 118/24 - UND - OF-6",
+      "ref": "JOS1970"
+   },
+   "7011971": {
+      "descripcion": "SET DE NIÑAS CON SECADOR BX24 124/24 ",
+      "ref": "JOS1971"
+   },
+   "7011972": {
+      "descripcion": "SET DE NIÑAS DIS DONA BX60 124/24 ",
+      "ref": "JOS1972"
+   },
+   "7011973": {
+      "descripcion": "SET DE NIÑAS DIS HELADO BX60 124/24",
+      "ref": "JOS1973"
+   },
+   "7011974": {
+      "descripcion": "SET DE NIÑAS DIS DULCE Y COLORES BX60",
+      "ref": "JOS1974"
+   },
+   "7011975": {
+      "descripcion": "AJEDREZ MAGNETICO BX48 126/24",
+      "ref": "JOS1975"
+   },
+   "7011976": {
+      "descripcion": "SET NIÑAS HACER PULSERAS - UND",
+      "ref": "JOS1976"
+   },
+   "7300074": {
+      "descripcion": "PLIEGO PAPEL REGALO",
+      "ref": "VAR0074"
+   },
+   "7214117": {
+      "descripcion": "AJEDREZ",
+      "ref": "JAI4117"
+   },
+   "7214118": {
+      "descripcion": "ANIMALES 11PCS",
+      "ref": "JAI4118"
+   },
+   "7214119": {
+      "descripcion": "ANIMALES ACUATICOS CON LLANTAS",
+      "ref": "JAI4119"
+   },
+   "7214120": {
+      "descripcion": "ANIMALES CON LLANTAS",
+      "ref": "JAI4120"
+   },
+   "7214121": {
+      "descripcion": "AVION BARCO DIDACTICO",
+      "ref": "JAI4121"
+   },
+   "7214122": {
+      "descripcion": "AVION ENCARTONADO",
+      "ref": "JAI4122"
+   },
+   "7214123": {
+      "descripcion": "AVION MOTO BARCO DIDACTICO",
+      "ref": "JAI4123"
+   },
+   "7214124": {
+      "descripcion": "AVION MOTO DIDACTICO",
+      "ref": "JAI4124"
+   },
+   "7214125": {
+      "descripcion": "BALONES ESPUMA",
+      "ref": "JAI4125"
+   },
+   "7214126": {
+      "descripcion": "BATERIA",
+      "ref": "JAI4126"
+   },
+   "7214127": {
+      "descripcion": "BATERIA",
+      "ref": "JAI4127"
+   },
+   "7214128": {
+      "descripcion": "BATERIA",
+      "ref": "JAI4128"
+   },
+   "7214129": {
+      "descripcion": "BATERIA",
+      "ref": "JAI4129"
+   },
+   "7214130": {
+      "descripcion": "BATERIA",
+      "ref": "JAI4130"
+   },
+   "7214131": {
+      "descripcion": "BEBE CON ACCESORIOS",
+      "ref": "JAI4131"
+   },
+   "7214132": {
+      "descripcion": "BEBE CON ACCESORIOS",
+      "ref": "JAI4132"
+   },
+   "7214133": {
+      "descripcion": "BEBE CON CUNA 2PCS",
+      "ref": "JAI4133"
+   },
+   "7214134": {
+      "descripcion": "BILLAR",
+      "ref": "JAI4134"
+   },
+   "7214135": {
+      "descripcion": "BINGO",
+      "ref": "JAI4135"
+   },
+   "7214136": {
+      "descripcion": "BLOQUES 255PCS",
+      "ref": "JAI4136"
+   },
+   "7214137": {
+      "descripcion": "BLOQUES 789PCS TREN",
+      "ref": "JAI4137"
+   },
+   "7214138": {
+      "descripcion": "BLOQUES ESPACIAL 44PCS",
+      "ref": "JAI4138"
+   },
+   "7214139": {
+      "descripcion": "BLOQUES TIGER 76PCS",
+      "ref": "JAI4139"
+   },
+   "7214140": {
+      "descripcion": "BOTE CARRERA",
+      "ref": "JAI4140"
+   },
+   "7214141": {
+      "descripcion": "BURBUJERO",
+      "ref": "JAI4141"
+   },
+   "7214142": {
+      "descripcion": "BURBUJERO",
+      "ref": "JAI4142"
+   },
+   "7214143": {
+      "descripcion": "BURBUJERO",
+      "ref": "JAI4143"
+   },
+   "7214144": {
+      "descripcion": "BURBUJERO",
+      "ref": "JAI4144"
+   },
+   "7214145": {
+      "descripcion": "BURBUJERO BATERIA",
+      "ref": "JAI4145"
+   },
+   "7214146": {
+      "descripcion": "BURBUJERO LUZ Y SONIDO BATERIA",
+      "ref": "JAI4146"
+   },
+   "7214147": {
+      "descripcion": "BURBUJERO TORTA",
+      "ref": "JAI4147"
+   },
+   "7214148": {
+      "descripcion": "BUS LUZ Y SONIDO",
+      "ref": "JAI4148"
+   },
+   "7214149": {
+      "descripcion": "BUS LUZ Y SONIDO",
+      "ref": "JAI4149"
+   },
+   "7214150": {
+      "descripcion": "BUS LUZ Y SONIDO",
+      "ref": "JAI4150"
+   },
+   "7214151": {
+      "descripcion": "CAFETERA TOSTADORA LICUADORA BATERIA",
+      "ref": "JAI4151"
+   },
+   "7214152": {
+      "descripcion": "CAJA REGISTRADORA NIÑO",
+      "ref": "JAI4152"
+   },
+   "7214153": {
+      "descripcion": "CAMINADOR SONIDA 4 EN 1",
+      "ref": "JAI4153"
+   },
+   "7214154": {
+      "descripcion": "CANCHA BALONCESTO",
+      "ref": "JAI4154"
+   },
+   "7214155": {
+      "descripcion": "CANCHA BALONCESTO",
+      "ref": "JAI4155"
+   },
+   "7214156": {
+      "descripcion": "CANCHA BALONCESTO BATERIA",
+      "ref": "JAI4156"
+   },
+   "7214157": {
+      "descripcion": "CARRO",
+      "ref": "JAI4157"
+   },
+   "7214158": {
+      "descripcion": "CARRO 2 CONTROLES USB RECARGABLE",
+      "ref": "JAI4158"
+   },
+   "7214159": {
+      "descripcion": "CARRO 6PCS",
+      "ref": "JAI4159"
+   },
+   "7214160": {
+      "descripcion": "CARRO BLOQUES DIDACTICO 45PCS",
+      "ref": "JAI4160"
+   },
+   "7214161": {
+      "descripcion": "CARRO BOMBERO TRANSFORMABLE",
+      "ref": "JAI4161"
+   },
+   "7214162": {
+      "descripcion": "CARRO CONSTRUCCION TRANSFORMABLE",
+      "ref": "JAI4162"
+   },
+   "7214163": {
+      "descripcion": "CARRO DRAGON LUZ Y SONIDO",
+      "ref": "JAI4163"
+   },
+   "7214164": {
+      "descripcion": "CARRO HIDROGEL MANILLA RECARGABLE",
+      "ref": "JAI4164"
+   },
+   "7214165": {
+      "descripcion": "CARRO LUZ Y SONIDO",
+      "ref": "JAI4165"
+   },
+   "7214166": {
+      "descripcion": "CARRO TIBURON CONTROL REMOTO RECARGABLE",
+      "ref": "JAI4166"
+   },
+   "7214167": {
+      "descripcion": "CARRO TIBURON LUZ Y SONIDO",
+      "ref": "JAI4167"
+   },
+   "7214168": {
+      "descripcion": "CARRO TRANSFORMER EN ROBOT",
+      "ref": "JAI4168"
+   },
+   "7214169": {
+      "descripcion": "CARROS 8PCS",
+      "ref": "JAI4169"
+   },
+   "7214170": {
+      "descripcion": "COCINA",
+      "ref": "JAI4170"
+   },
+   "7214171": {
+      "descripcion": "COMPUTADOR APRENDIZAJE LUZ Y SONIDO",
+      "ref": "JAI4171"
+   },
+   "7214172": {
+      "descripcion": "CUATRIMOTO RECARGABLE",
+      "ref": "JAI4172"
+   },
+   "7214173": {
+      "descripcion": "DINOSAURIO CON LLANTAS",
+      "ref": "JAI4173"
+   },
+   "7214174": {
+      "descripcion": "DINOSAURIO CONTROL REMOTO RECARGABLE",
+      "ref": "JAI4174"
+   },
+   "7214175": {
+      "descripcion": "DINOSAURIO CONTROL REMOTO RECARGABLE",
+      "ref": "JAI4175"
+   },
+   "7214176": {
+      "descripcion": "DINOSAURIO LUZ Y SONIDO",
+      "ref": "JAI4176"
+   },
+   "7214177": {
+      "descripcion": "DINOSAURIO LUZ Y SONIDO",
+      "ref": "JAI4177"
+   },
+   "7214178": {
+      "descripcion": "DINOSAURIO LUZ Y SONIDO BATERIA",
+      "ref": "JAI4178"
+   },
+   "7214179": {
+      "descripcion": "DRAGÓN LUZ Y SONIDO 8801",
+      "ref": "JAI4179"
+   },
+   "7214180": {
+      "descripcion": "ESTACION DE CARROS",
+      "ref": "JAI4180"
+   },
+   "7214181": {
+      "descripcion": "ESTACION DE CONSTRUCCION",
+      "ref": "JAI4181"
+   },
+   "7214182": {
+      "descripcion": "GIMNASIO DIDACTICO BEBE 3 EN 1",
+      "ref": "JAI4182"
+   },
+   "7214183": {
+      "descripcion": "GIMNASIO DIDACTICO BEBE 5 EN 1 NIÑA",
+      "ref": "JAI4183"
+   },
+   "7214184": {
+      "descripcion": "GIMNASIO DIDACTICO BEBE 5 EN 1 NIÑO",
+      "ref": "JAI4184"
+   },
+   "7214185": {
+      "descripcion": "INSECTOS 7PCS",
+      "ref": "JAI4185"
+   },
+   "7214186": {
+      "descripcion": "JUEGO DE BALONCESTO",
+      "ref": "JAI4186"
+   },
+   "7214187": {
+      "descripcion": "JUEGO DE FICHAS",
+      "ref": "JAI4187"
+   },
+   "7214188": {
+      "descripcion": "JUEGO DE FICHAS BATTLE GAME",
+      "ref": "JAI4188"
+   },
+   "7214189": {
+      "descripcion": "JUEGO INTERACTIVO",
+      "ref": "JAI4189"
+   },
+   "7214190": {
+      "descripcion": "JUEGODE BALONCESTO",
+      "ref": "JAI4190"
+   },
+   "7214191": {
+      "descripcion": "LANZADOR",
+      "ref": "JAI4191"
+   },
+   "7214192": {
+      "descripcion": "LANZADOR DE AGUA NIÑA RECARGABLE",
+      "ref": "JAI4192"
+   },
+   "7214193": {
+      "descripcion": "LANZADOR DE AGUA NIÑO RECARGABLE",
+      "ref": "JAI4193"
+   },
+   "7214194": {
+      "descripcion": "LANZADOR DE HIDROGEL",
+      "ref": "JAI4194"
+   },
+   "7214195": {
+      "descripcion": "LANZADOR DE HIDROGEL",
+      "ref": "JAI4195"
+   },
+   "7214196": {
+      "descripcion": "LANZADOR DINOSAURIO",
+      "ref": "JAI4196"
+   },
+   "7214197": {
+      "descripcion": "MESA CON  BLOQUES BOMBEROS 55PCS",
+      "ref": "JAI4197"
+   },
+   "7214198": {
+      "descripcion": "MESA CON BLOQUES ESTACION POLICIA 55PCS",
+      "ref": "JAI4198"
+   },
+   "7214199": {
+      "descripcion": "MINI BILLAR",
+      "ref": "JAI4199"
+   },
+   "7214200": {
+      "descripcion": "MUÑECA CON MASCOTA",
+      "ref": "JAI4200"
+   },
+   "7214201": {
+      "descripcion": "MUÑECA HADA LUZ Y SONIDO",
+      "ref": "JAI4201"
+   },
+   "7214202": {
+      "descripcion": "MUÑECA LUZ Y SONIDO",
+      "ref": "JAI4202"
+   },
+   "7214203": {
+      "descripcion": "MUÑECO DJ",
+      "ref": "JAI4203"
+   },
+   "7214204": {
+      "descripcion": "ORGANETA LUZ Y SONIDO",
+      "ref": "JAI4204"
+   },
+   "7214205": {
+      "descripcion": "PARQUEADERO DINOSAURIOS 92PCS LUZ Y SONIDO",
+      "ref": "JAI4205"
+   },
+   "7214206": {
+      "descripcion": "PAYASO LUZ Y SONIDO",
+      "ref": "JAI4206"
+   },
+   "7214207": {
+      "descripcion": "PELOTAS SUAVES",
+      "ref": "JAI4207"
+   },
+   "7214208": {
+      "descripcion": "PIANO BATERIA",
+      "ref": "JAI4208"
+   },
+   "7214209": {
+      "descripcion": "PIANO BLOQUES SONIDO",
+      "ref": "JAI4209"
+   },
+   "7214210": {
+      "descripcion": "PIANO COCODRILO",
+      "ref": "JAI4210"
+   },
+   "7214211": {
+      "descripcion": "PIANO DINOSAURIO SONIDO",
+      "ref": "JAI4211"
+   },
+   "7214212": {
+      "descripcion": "PIANO LUZ Y SONIDO",
+      "ref": "JAI4212"
+   },
+   "7214213": {
+      "descripcion": "PIANO LUZ Y SONIDO",
+      "ref": "JAI4213"
+   },
+   "7214214": {
+      "descripcion": "PIANO MULTICOLOR LUZ Y SONIDO",
+      "ref": "JAI4214"
+   },
+   "7214215": {
+      "descripcion": "PIANO SONIDO",
+      "ref": "JAI4215"
+   },
+   "7214216": {
+      "descripcion": "PIANO SONIDO",
+      "ref": "JAI4216"
+   },
+   "7214217": {
+      "descripcion": "PIANO SONIDO USB",
+      "ref": "JAI4217"
+   },
+   "7214218": {
+      "descripcion": "PIANO TAMBOR SONIDO",
+      "ref": "JAI4218"
+   },
+   "7214219": {
+      "descripcion": "PISTA CARRERAS",
+      "ref": "JAI4219"
+   },
+   "7214220": {
+      "descripcion": "PISTA CARRERAS ELECTRICO",
+      "ref": "JAI4220"
+   },
+   "7214221": {
+      "descripcion": "PISTA CARRERAS RECARGABLE",
+      "ref": "JAI4221"
+   },
+   "7214222": {
+      "descripcion": "PISTA CARROS",
+      "ref": "JAI4222"
+   },
+   "7214223": {
+      "descripcion": "PISTA CARROS 120PCS",
+      "ref": "JAI4223"
+   },
+   "7214224": {
+      "descripcion": "PISTA CARROS 210PCS",
+      "ref": "JAI4224"
+   },
+   "7214225": {
+      "descripcion": "PISTA CARROS 66PCS",
+      "ref": "JAI4225"
+   },
+   "7214226": {
+      "descripcion": "PISTA CARROS CONSTRUCCION 55PCS",
+      "ref": "JAI4226"
+   },
+   "7214227": {
+      "descripcion": "PISTA DE CARRERAS",
+      "ref": "JAI4227"
+   },
+   "7214228": {
+      "descripcion": "PISTA DE CARROS",
+      "ref": "JAI4228"
+   },
+   "7214229": {
+      "descripcion": "PISTA DE CARROS ESPACIAL 16PCS",
+      "ref": "JAI4229"
+   },
+   "7214230": {
+      "descripcion": "PISTA DE CARROS ESPACIAL 35PCS",
+      "ref": "JAI4230"
+   },
+   "7214231": {
+      "descripcion": "ROBOT LUZ Y SONIDO",
+      "ref": "JAI4231"
+   },
+   "7214232": {
+      "descripcion": "ROBOT TRANSFORMABLE",
+      "ref": "JAI4232"
+   },
+   "7214233": {
+      "descripcion": "SET ASTRONAUTA",
+      "ref": "JAI4233"
+   },
+   "7214234": {
+      "descripcion": "SET HUEVOS TRANSFORMABLES",
+      "ref": "JAI4234"
+   },
+   "7214235": {
+      "descripcion": "SET LANZADOR PIMPONES",
+      "ref": "JAI4235"
+   },
+   "7214236": {
+      "descripcion": "SET PLASTILINA",
+      "ref": "JAI4236"
+   },
+   "7214237": {
+      "descripcion": "SET PLASTILINA",
+      "ref": "JAI4237"
+   },
+   "7214238": {
+      "descripcion": "SET PLASTILINA",
+      "ref": "JAI4238"
+   },
+   "7214239": {
+      "descripcion": "SET PLASTILINA CON NIÑA",
+      "ref": "JAI4239"
+   },
+   "7214240": {
+      "descripcion": "SET PLASTILINA CON NIÑO",
+      "ref": "JAI4240"
+   },
+   "7214241": {
+      "descripcion": "SET PLASTILINA PELUQUERIA",
+      "ref": "JAI4241"
+   },
+   "7214242": {
+      "descripcion": "SET PLASTILINA WAFFLE 8111A",
+      "ref": "JAI4242"
+   },
+   "7214243": {
+      "descripcion": "SET RESCATE",
+      "ref": "JAI4243"
+   },
+   "7214244": {
+      "descripcion": "TABLERO MAGICO NIÑA",
+      "ref": "JAI4244"
+   },
+   "7214245": {
+      "descripcion": "TABLERO MAGICO NIÑO",
+      "ref": "JAI4245"
+   },
+   "7214246": {
+      "descripcion": "TABLETA ANIMAL",
+      "ref": "JAI4246"
+   },
+   "7214247": {
+      "descripcion": "TABLETA DINOSAURIO",
+      "ref": "JAI4247"
+   },
+   "7214248": {
+      "descripcion": "TAMBORES",
+      "ref": "JAI4248"
+   },
+   "7214249": {
+      "descripcion": "TAPETE PARA CARROS",
+      "ref": "JAI4249"
+   },
+   "7214250": {
+      "descripcion": "TAPETE PARA CARROS",
+      "ref": "JAI4250"
+   },
+   "7214251": {
+      "descripcion": "TELEFONO SONIDO",
+      "ref": "JAI4251"
+   },
+   "7214252": {
+      "descripcion": "TRACTOMULA CONSTRUCCION CON PISTA",
+      "ref": "JAI4252"
+   },
+   "7214253": {
+      "descripcion": "TREN BALA  LUZ Y SONIDO",
+      "ref": "JAI4253"
+   },
+   "7214254": {
+      "descripcion": "VELOCIPRATOR CONTROL RECARGABLE",
+      "ref": "JAI4254"
+   },
+   "7214255": {
+      "descripcion": "VUELTA DIVERTIDA",
+      "ref": "JAI4255"
+   },
+   "7214256": {
+      "descripcion": "\"CUCHILLO 3.5\"\"\"",
+      "ref": "JAI4256"
+   },
+   "7214257": {
+      "descripcion": "\"CUCHILLO 7\"\"\"",
+      "ref": "JAI4257"
+   },
+   "7214258": {
+      "descripcion": "2156676000153SOPERA BLANCA JA23015",
+      "ref": "JAI4258"
+   },
+   "7214259": {
+      "descripcion": "ACEITERA O VINAGRERA 660ML VIDRIO",
+      "ref": "JAI4259"
+   },
+   "7214260": {
+      "descripcion": "BANDA MAGNETICA 55CM",
+      "ref": "JAI4260"
+   },
+   "7214261": {
+      "descripcion": "BANDEJA CAFETERIA LISA GRANDE NEGRA",
+      "ref": "JAI4261"
+   },
+   "7214262": {
+      "descripcion": "BANDEJA PASABOCAS PEQUEÑA",
+      "ref": "JAI4262"
+   },
+   "7214263": {
+      "descripcion": "BASE PARA OLLAS CROMADA 20CM REDONDA",
+      "ref": "JAI4263"
+   },
+   "7214264": {
+      "descripcion": "BOTILITO 500ML ST7011",
+      "ref": "JAI4264"
+   },
+   "7214265": {
+      "descripcion": "BOTILITO 580ML ST6609",
+      "ref": "JAI4265"
+   },
+   "7214266": {
+      "descripcion": "CAJA FANTASIA 14 LTS AZUL",
+      "ref": "JAI4266"
+   },
+   "7214267": {
+      "descripcion": "CANASTA RATTAN ECORED 8LT CAFE",
+      "ref": "JAI4267"
+   },
+   "7214268": {
+      "descripcion": "CANASTA RATTAN ECORED 8LT GRIS",
+      "ref": "JAI4268"
+   },
+   "7214269": {
+      "descripcion": "COCTELERA 500ML ACERO 555",
+      "ref": "JAI4269"
+   },
+   "7214270": {
+      "descripcion": "COLADOR PLASTICO",
+      "ref": "JAI4270"
+   },
+   "7214271": {
+      "descripcion": "COLADORES SET X3 GRIS PLATA",
+      "ref": "JAI4271"
+   },
+   "7214272": {
+      "descripcion": "CONTENEDOR FANTASIA CON CANILLA 10LT TRANSP NEGRO",
+      "ref": "JAI4272"
+   },
+   "7214273": {
+      "descripcion": "CONTENEDOR MULTIUSO SET X7",
+      "ref": "JAI4273"
+   },
+   "7214274": {
+      "descripcion": "CONTENEDOR MULTIUSOS CUADRADO SET X3",
+      "ref": "JAI4274"
+   },
+   "7214275": {
+      "descripcion": "CONTENEDOR MULTIUSOS SETX3",
+      "ref": "JAI4275"
+   },
+   "7214276": {
+      "descripcion": "CONTENEDOR TRANSPARENTE 5L PLASTIRED",
+      "ref": "JAI4276"
+   },
+   "7214277": {
+      "descripcion": "CORTINA DE BA¥O POLIESTER 180X1",
+      "ref": "JAI4277"
+   },
+   "7214278": {
+      "descripcion": "CUCHARA 6PCS CABO EN MADERA",
+      "ref": "JAI4278"
+   },
+   "7214279": {
+      "descripcion": "CUCHARA DULCERA 9PCS CABO EN MADERA",
+      "ref": "JAI4279"
+   },
+   "7214280": {
+      "descripcion": "CUCHARA SOPERA MEDINA DISEÑO",
+      "ref": "JAI4280"
+   },
+   "7214281": {
+      "descripcion": "CUCHARON ACERO PH",
+      "ref": "JAI4281"
+   },
+   "7214282": {
+      "descripcion": "CUCHARON ACERO PH",
+      "ref": "JAI4282"
+   },
+   "7214283": {
+      "descripcion": "CUCHARON ACERO PH",
+      "ref": "JAI4283"
+   },
+   "7214284": {
+      "descripcion": "CUCHILLO 6PCS CABO EN MADERA",
+      "ref": "JAI4284"
+   },
+   "7214285": {
+      "descripcion": "ESCURRIDOR 22CM ACERO PH",
+      "ref": "JAI4285"
+   },
+   "7214286": {
+      "descripcion": "ESCURRIDOR DE PLATOS MOCCA",
+      "ref": "JAI4286"
+   },
+   "7214287": {
+      "descripcion": "ESCURRIDOR MEGAUTIL CON TAPA UND BLANO",
+      "ref": "JAI4287"
+   },
+   "7214288": {
+      "descripcion": "ESTANTE",
+      "ref": "JAI4288"
+   },
+   "7214289": {
+      "descripcion": "JARRA 2L",
+      "ref": "JAI4289"
+   },
+   "7214290": {
+      "descripcion": "JARRA GREEN 1600ML VIDRIO",
+      "ref": "JAI4290"
+   },
+   "7214291": {
+      "descripcion": "JARRA VIOLET 1600ML VIDRIO",
+      "ref": "JAI4291"
+   },
+   "7214292": {
+      "descripcion": "JUEGO PLATO Y POCILLO 12PCS",
+      "ref": "JAI4292"
+   },
+   "7214293": {
+      "descripcion": "JUEGO PLATO Y POCILLO 12PCS",
+      "ref": "JAI4293"
+   },
+   "7214294": {
+      "descripcion": "JUEGO PLATO Y POCILLO 12PCS",
+      "ref": "JAI4294"
+   },
+   "7214295": {
+      "descripcion": "MATERO ECORED 20CM LADRILLO",
+      "ref": "JAI4295"
+   },
+   "7214296": {
+      "descripcion": "MATERO ECORED 20CM NEGRO",
+      "ref": "JAI4296"
+   },
+   "7214297": {
+      "descripcion": "MATERO ECORED 26 CM CAFE",
+      "ref": "JAI4297"
+   },
+   "7214298": {
+      "descripcion": "MATERO ECORED 26 CM LADRILLO",
+      "ref": "JAI4298"
+   },
+   "7214299": {
+      "descripcion": "MATERO ECORED 45CM LADRILLO",
+      "ref": "JAI4299"
+   },
+   "7214300": {
+      "descripcion": "MATERO ECORED 45CM NEGRO",
+      "ref": "JAI4300"
+   },
+   "7214301": {
+      "descripcion": "MESA CUADRADA CINCO NIVELES NEGRO",
+      "ref": "JAI4301"
+   },
+   "7214302": {
+      "descripcion": "MESA CUADRADA TRES NIVELES CAFE",
+      "ref": "JAI4302"
+   },
+   "7214303": {
+      "descripcion": "OLLA CON TAPA 22 CM PH AKY",
+      "ref": "JAI4303"
+   },
+   "7214304": {
+      "descripcion": "OLLA CON TAPA 24CM",
+      "ref": "JAI4304"
+   },
+   "7214305": {
+      "descripcion": "OLLA CON TAPA 26CM",
+      "ref": "JAI4305"
+   },
+   "7214306": {
+      "descripcion": "OLLA CON TAPA 28 CM PH AKY",
+      "ref": "JAI4306"
+   },
+   "7214307": {
+      "descripcion": "OLLA PRESION 6LT",
+      "ref": "JAI4307"
+   },
+   "7214308": {
+      "descripcion": "OLLAS 22-24-26CM",
+      "ref": "JAI4308"
+   },
+   "7214309": {
+      "descripcion": "ORGANIZADOR BAÑO",
+      "ref": "JAI4309"
+   },
+   "7214310": {
+      "descripcion": "ORGANIZADOR NEVERA",
+      "ref": "JAI4310"
+   },
+   "7214311": {
+      "descripcion": "ORGANIZADOR NEVERA",
+      "ref": "JAI4311"
+   },
+   "7214312": {
+      "descripcion": "ORGANIZADOR NEVERA",
+      "ref": "JAI4312"
+   },
+   "7214313": {
+      "descripcion": "PAPELERA MIMBRE 20LT CAFE",
+      "ref": "JAI4313"
+   },
+   "7214314": {
+      "descripcion": "PAPELERA RATTAN ORION BLANCO",
+      "ref": "JAI4314"
+   },
+   "7214315": {
+      "descripcion": "PAPELERA RATTAN ORION CAFE",
+      "ref": "JAI4315"
+   },
+   "7214316": {
+      "descripcion": "PAPELERA RATTAN ORION GRIS",
+      "ref": "JAI4316"
+   },
+   "7214317": {
+      "descripcion": "PELADOR PLASTICO Y ACERO",
+      "ref": "JAI4317"
+   },
+   "7214318": {
+      "descripcion": "PERCHERO 5 PUNTAS PH",
+      "ref": "JAI4318"
+   },
+   "7214319": {
+      "descripcion": "PEROL CON TAPA 18CM",
+      "ref": "JAI4319"
+   },
+   "7214320": {
+      "descripcion": "PLATO Y POCILLO 6PCS",
+      "ref": "JAI4320"
+   },
+   "7214321": {
+      "descripcion": "PLATO Y POCILLO 6PCS",
+      "ref": "JAI4321"
+   },
+   "7214322": {
+      "descripcion": "POCILLO",
+      "ref": "JAI4322"
+   },
+   "7214323": {
+      "descripcion": "POCILLO 2PCS SOL Y LUNA",
+      "ref": "JAI4323"
+   },
+   "7214324": {
+      "descripcion": "POCILLO GATO",
+      "ref": "JAI4324"
+   },
+   "7214325": {
+      "descripcion": "POCILLO PERRO",
+      "ref": "JAI4325"
+   },
+   "7214326": {
+      "descripcion": "POSA CUCHARA",
+      "ref": "JAI4326"
+   },
+   "7214327": {
+      "descripcion": "RALLADOR ACERO Y PLASTICO",
+      "ref": "JAI4327"
+   },
+   "7214328": {
+      "descripcion": "RELOJ DE PARED",
+      "ref": "JAI4328"
+   },
+   "7214329": {
+      "descripcion": "RELOJ DE PARED",
+      "ref": "JAI4329"
+   },
+   "7214330": {
+      "descripcion": "RELOJ DE PARED",
+      "ref": "JAI4330"
+   },
+   "7214331": {
+      "descripcion": "SALSERA 3 DIVISIONES TRIANGULO",
+      "ref": "JAI4331"
+   },
+   "7214332": {
+      "descripcion": "SALSERA CON ASA NEGRA",
+      "ref": "JAI4332"
+   },
+   "7214333": {
+      "descripcion": "SALSERA CON ASAS GRANDE NEGRA",
+      "ref": "JAI4333"
+   },
+   "7214334": {
+      "descripcion": "SALSERA CUADRADA COMPARTIMIENTO DOBLE NEGRA",
+      "ref": "JAI4334"
+   },
+   "7214335": {
+      "descripcion": "SARTEN 22 CM PH AKY",
+      "ref": "JAI4335"
+   },
+   "7214336": {
+      "descripcion": "SARTEN 26 CM PH AKY",
+      "ref": "JAI4336"
+   },
+   "7214337": {
+      "descripcion": "SARTEN CREPE 28 CM PH AKY",
+      "ref": "JAI4337"
+   },
+   "7214338": {
+      "descripcion": "SARTEN TAPA VIDRIO 18*4.2CM ALUMINIO PH",
+      "ref": "JAI4338"
+   },
+   "7214339": {
+      "descripcion": "SERVILLETERO ACERO INOX",
+      "ref": "JAI4339"
+   },
+   "7214340": {
+      "descripcion": "SET BOTILITO 2LT/0.8LT EN PLASTICO",
+      "ref": "JAI4340"
+   },
+   "7214341": {
+      "descripcion": "SILLA COMEDOR CUSHION AZUL",
+      "ref": "JAI4341"
+   },
+   "7214342": {
+      "descripcion": "SOPERA ASA LARGA",
+      "ref": "JAI4342"
+   },
+   "7214343": {
+      "descripcion": "SOPERA COLOR",
+      "ref": "JAI4343"
+   },
+   "7214344": {
+      "descripcion": "SOPORTE PARA CEPILLOS BLANCO",
+      "ref": "JAI4344"
+   },
+   "7214345": {
+      "descripcion": "SOPORTE PARA CEPILLOS GRIS",
+      "ref": "JAI4345"
+   },
+   "7214346": {
+      "descripcion": "SOPORTE PARA UTENSILIOS CAFE",
+      "ref": "JAI4346"
+   },
+   "7214347": {
+      "descripcion": "SOPORTE PARA UTENSILIOS GRIS",
+      "ref": "JAI4347"
+   },
+   "7214348": {
+      "descripcion": "TABLA PARA PICAR 2PCS",
+      "ref": "JAI4348"
+   },
+   "7214349": {
+      "descripcion": "TAPER DIVISIONES AZUL",
+      "ref": "JAI4349"
+   },
+   "7214350": {
+      "descripcion": "TAPER DIVISIONES ROJO",
+      "ref": "JAI4350"
+   },
+   "7214351": {
+      "descripcion": "TAPER REDONDO ROJO",
+      "ref": "JAI4351"
+   },
+   "7214352": {
+      "descripcion": "TAZA REDONDA CON ASA BLANCA",
+      "ref": "JAI4352"
+   },
+   "7214353": {
+      "descripcion": "TAZA REDONDA RELIEVE HONDAS",
+      "ref": "JAI4353"
+   },
+   "7214354": {
+      "descripcion": "TENEDOR 6PCS CABO EN MADERA",
+      "ref": "JAI4354"
+   },
+   "7214355": {
+      "descripcion": "VASO 400ML",
+      "ref": "JAI4355"
+   },
+   "7214356": {
+      "descripcion": "VASO 450ML",
+      "ref": "JAI4356"
+   },
+   "7214357": {
+      "descripcion": "VASO PITILLO",
+      "ref": "JAI4357"
+   },
+   "7214358": {
+      "descripcion": "VASO PITILLO",
+      "ref": "JAI4358"
+   },
+   "7214359": {
+      "descripcion": "VASO TERMICO",
+      "ref": "JAI4359"
+   },
+   "7214360": {
+      "descripcion": "CAJA MULTIUSOS RATTAN 10LT CAFE",
+      "ref": "JAI4360"
+   },
+   "7214361": {
+      "descripcion": "MATERO ECORED 11CM LADRILLO",
+      "ref": "JAI4361"
+   },
+   "7214362": {
+      "descripcion": "MATERO ECORED 11CM NEGRO",
+      "ref": "JAI4362"
+   },
+   "7214363": {
+      "descripcion": "PORTACOMIDAS 3 DIVISIONES GRIS PLATA",
+      "ref": "JAI4363"
+   },
+   "7214364": {
+      "descripcion": "TAPER REDONDO AZUL",
+      "ref": "JAI4364"
+   },
+   "7214365": {
+      "descripcion": "BOWL DULCERA CIRCULAR MEDIANA NEGRO",
+      "ref": "JAI4365"
+   },
+   "7214366": {
+      "descripcion": "CAJA FANTASIA 14 LTS GRIS",
+      "ref": "JAI4366"
+   },
+   "7214367": {
+      "descripcion": "CAJA FANTASIA 14 LTS ROJO",
+      "ref": "JAI4367"
+   },
+   "7214368": {
+      "descripcion": "CANASTILLA TRIANGULAR 4 NIVELES",
+      "ref": "JAI4368"
+   },
+   "7214369": {
+      "descripcion": "CONTENEDOR MULTIUSOS SET X3 AZUL",
+      "ref": "JAI4369"
+   },
+   "7214370": {
+      "descripcion": "ESCURRIDOR DE PLATOS GRIS",
+      "ref": "JAI4370"
+   },
+   "7214371": {
+      "descripcion": "ESQUIÑERO DE BAÑO MOCCA",
+      "ref": "JAI4371"
+   },
+   "7214372": {
+      "descripcion": "MATERO COLORES 20 CM GRIS",
+      "ref": "JAI4372"
+   },
+   "7214373": {
+      "descripcion": "MATERO COLORES 20 CM NUDE",
+      "ref": "JAI4373"
+   },
+   "7214374": {
+      "descripcion": "PARRILLA ASADORA",
+      "ref": "JAI4374"
+   },
+   "7214375": {
+      "descripcion": "SILLA COMEDOR CUSHION ROSADO",
+      "ref": "JAI4375"
+   },
+   "7214376": {
+      "descripcion": "VAJILLA ASTER BLANCA",
+      "ref": "JAI4376"
+   },
+   "7191803": {
+      "descripcion": "BANDEROLA MET FC TERRAZO D/N 3.6M X 1",
+      "ref": "SEM1803"
+   },
+   "7191804": {
+      "descripcion": "CARTEL DE LETRAS FC TERRAZO D/N X 1",
+      "ref": "SEM1804"
+   },
+   "7191805": {
+      "descripcion": "CARTEL LETRAS HAPPY HALLOWEEN X 1",
+      "ref": "SEM1805"
+   },
+   "7191806": {
+      "descripcion": "GLOBO FOIL 18\"# FC TERRAZO D/N X 1",
+      "ref": "SEM1806"
+   },
+   "7191807": {
+      "descripcion": "LANZA CONFETTI NIÑA 20CM X# 2",
+      "ref": "SEM1807"
+   },
+   "7191808": {
+      "descripcion": "LANZA CONFETTI NIÑO 20CM X# 2",
+      "ref": "SEM1808"
+   },
+   "7191809": {
+      "descripcion": "MANTEL PEVA RECT TERRAZO X 1",
+      "ref": "SEM1809"
+   },
+   "7191810": {
+      "descripcion": "PLATO 7 \" MET NIÑO O NIÑA X 8",
+      "ref": "SEM1810"
+   },
+   "7191811": {
+      "descripcion": "PLATO 7\" MET FC TERRAZO D/N x 8",
+      "ref": "SEM1811"
+   },
+   "7191812": {
+      "descripcion": "R-12 IMP FANTASMAS F B-N X 12",
+      "ref": "SEM1812"
+   },
+   "7191813": {
+      "descripcion": "R-12 INF NIÑO O NIÑA F&PM SURT X 12",
+      "ref": "SEM1813"
+   },
+   "7191814": {
+      "descripcion": "R-12 SK AMATISTA X 12",
+      "ref": "SEM1814"
+   },
+   "7191815": {
+      "descripcion": "R-12 SK AZUL ÁRTICO X 12",
+      "ref": "SEM1815"
+   },
+   "7191816": {
+      "descripcion": "R-12 SK PERLA CREMA X 12",
+      "ref": "SEM1816"
+   },
+   "7191817": {
+      "descripcion": "R-12 SK ROSA PRIMAVERAL X 12",
+      "ref": "SEM1817"
+   },
+   "7191818": {
+      "descripcion": "R-12 SK VERDE MENTA X 12",
+      "ref": "SEM1818"
+   },
+   "7191819": {
+      "descripcion": "SERVILLETA PEQ FC TERRAZO D/N X 16",
+      "ref": "SEM1819"
+   },
+   "7191820": {
+      "descripcion": "TENEDOR DELUXE OXO DORADO ROSA X 12",
+      "ref": "SEM1820"
+   },
+   "7191821": {
+      "descripcion": "TIARA IMP FC TERRAZO D/N X 3",
+      "ref": "SEM1821"
+   },
+   "7191822": {
+      "descripcion": "VASO 9 OZ NIÑO O NIÑA X 8",
+      "ref": "SEM1822"
+   },
+   "7191823": {
+      "descripcion": "VASO 9OZ FC TERRAZO D/N X 8",
+      "ref": "SEM1823"
+   },
+   "7191824": {
+      "descripcion": "VASO DELUXE OXO 7OZ DORADO ROSA X 10",
+      "ref": "SEM1824"
+   },
+   "7461569": {
+      "descripcion": "PELUCHE MOTIVO SURTIDO",
+      "ref": "TIT1569"
+   },
+   "7461570": {
+      "descripcion": "PELUCHE RATÓN 50 CM",
+      "ref": "TIT1570"
+   },
+   "7461571": {
+      "descripcion": "PELUCHE CABALLO MONTABLE MUSICAL 70 CM",
+      "ref": "TIT1571"
+   },
+   "7461572": {
+      "descripcion": "CANGURO DE PELUCHE",
+      "ref": "TIT1572"
+   },
+   "7461573": {
+      "descripcion": "COJIN PELUCHE SANDWICH 30 CM",
+      "ref": "TIT1573"
+   },
+   "7461574": {
+      "descripcion": "GATA MARIE45 CM",
+      "ref": "TIT1574"
+   }
 }
